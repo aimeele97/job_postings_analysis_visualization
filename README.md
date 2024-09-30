@@ -29,40 +29,40 @@ This project seeks to analyze recent job postings and create a predictive model 
 - Handle missing values, remove duplicates, and convert data types.
 - Remove columns that are not in use
 
-Raw data
+__Raw data__
 ![raw-data](img/raw_data.png)
 
-Clean data
+__Clean data__
 ![clean-data](img/clean_data.png)
 
 #### 2. Exploratory Data Analysis (EDA)
-- Job posting by date
+__Job posting by date__
 ![img.png](img/bydate.png)
-- Job distribution by state
+__Job distribution by state__
 ![img.png](img/propotion-state.png)
-- Salary distribution
+__Salary distribution__
 ![img.png](img/avg-salary.png)
-- Salary by job level
+__- __Salary by job level__
 ![img.png](img/salary-job-level.png)
-- Salary by working mode
+__Salary by working mode__
 ![img.png](img/salary-working-mode.png)
-- Salary by job level and working mode
+__Salary by job level and working mode__
 ![img.png](img/salary-joblevel-workingmode.png)
-- Top 10 city, state hiring the most
+__Top 10 city, state hiring the most__
 ![img.png](img/top-10-city-state.png)
-- Top 10 company actively hiring
+__Top 10 company actively hiring__
 ![img.png](img/top-10-company.png)
-- Salary range for entry level positions
+__Salary range for entry level positions__
 ![img.png](img//salary-entry-level.png)
 
 #### 3. Model development
 
 Three models were developed to predict salary: 
-- Simple Linear Regression (SLR)
+__Simple Linear Regression (SLR)__
 ![img.png](img/SLR-job-level.png)
-- Multiple Linear Regression (MLR)
+__Multiple Linear Regression (MLR)__
 ![img.png](img/mlr.png)
-- Polynomial Regression
+__Polynomial Regression__
 ![img.png](img/polynomial-joblevel.png)
 
 ### Conclusion
