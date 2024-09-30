@@ -1,4 +1,4 @@
-Date,Company,State,City,Level,Work_Type,Average_salary
+Date,Company,State,City,Level,Working Mode,Average_salary
 2024-06-23,Pci Government Services,Alabama,Huntsville,Senior,On-Site,85000.0
 2024-06-23,Booz Allen,Alabama,Huntsville,Mid-level,On-Site,123800.0
 2024-06-23,Booz Allen,Alabama,Huntsville,Senior,On-Site,158300.0
@@ -12,7 +12,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Intel,Arizona,Arizona,Mid-level,On-Site,210733.0
 2024-06-23,University Of Arizona,Arizona,Tucson,Mid-level,On-Site,159967.5
 2024-06-23,Paypal,Arizona,Arizona,Manager,On-Site,110375.0
-2024-06-23,Raytheon Technologies Corporate Headquarters,Arizona,Tucson,Senior,hybrid,96000.0
+2024-06-23,Raytheon Technologies Corporate Headquarters,Arizona,Tucson,Senior,Hybrid,96000.0
 2024-06-23,Intel,Arizona,Arizona,Mid-level,On-Site,202652.0
 2024-06-23,University Of Arizona,Arizona,Tucson,Mid-level,On-Site,86870.5
 2024-06-23,Samsara,Arizona,Phoenix,Mid-level,On-Site,207107.5
@@ -125,7 +125,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Biomerieux Sa,California,San Jose,Lead,On-Site,180470.0
 2024-06-23,Paypal,California,San Jose,Mid-level,On-Site,124350.0
 2024-06-23,Apple,California,Cupertino,Mid-level,On-Site,213600.0
-2024-06-23,Blackhawk Network,California,Pleasanton,Mid-level,hybrid,157360.0
+2024-06-23,Blackhawk Network,California,Pleasanton,Mid-level,Hybrid,157360.0
 2024-06-23,Merck Sharp & Dohme,California,South San Francisco,Associate,On-Site,195550.0
 2024-06-23,Nvidia,California,Santa Clara,Mid-level,On-Site,252500.0
 2024-06-23,Koko Home,California,Sunnyvale,Mid-level,On-Site,160000.0
@@ -611,11 +611,11 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,"Amazon Development Center U.s., Inc.",Colorado,Denver,Mid-level,On-Site,103400.0
 2024-06-23,Cablelabs,Colorado,Louisville,Senior,On-Site,126000.0
 2024-06-23,Davita,Colorado,Denver,Mid-level,On-Site,149550.0
-2024-06-23,Cdm Smith,Colorado,Denver,Mid-level,hybrid,126343.0
+2024-06-23,Cdm Smith,Colorado,Denver,Mid-level,Hybrid,126343.0
 2024-06-23,Meta,Colorado,Denver,Mid-level,On-Site,205000.0
 2024-06-23,Recruiting From Scratch,Colorado,Boulder,Senior,On-Site,165000.0
 2024-06-23,Cvs Health,Connecticut,Hartford,Mid-level,On-Site,115435.0
-2024-06-23,The Hartford,Connecticut,Hartford,Mid-level,hybrid,133700.0
+2024-06-23,The Hartford,Connecticut,Hartford,Mid-level,Hybrid,133700.0
 2024-06-23,M&t Bank,Connecticut,Bridgeport,Senior,On-Site,159201.12
 2024-06-23,"The Travelers Companies, Inc.",Connecticut,Hartford,Mid-level,On-Site,183700.0
 2024-06-23,"The Travelers Companies, Inc.",Connecticut,Hartford,Manager,On-Site,183700.0
@@ -629,12 +629,12 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Raytheon Research Center,Connecticut,East Hartford,Mid-level,On-Site,120000.0
 2024-06-23,The Hartford,Connecticut,Hartford,Senior,On-Site,141700.0
 2024-06-23,The Hartford,Connecticut,Hartford,Lead,On-Site,185900.0
-2024-06-23,Eversource,Connecticut,East Berlin,Manager,hybrid,167770.0
+2024-06-23,Eversource,Connecticut,East Berlin,Manager,Hybrid,167770.0
 2024-06-23,The Cigna Group,Connecticut,Bloomfield,Senior,On-Site,145450.0
 2024-06-23,"The Travelers Companies, Inc.",Connecticut,Hartford,Lead,On-Site,236500.0
 2024-06-23,Raytheon Research Center,Connecticut,East Hartford,Mid-level,On-Site,148000.0
 2024-06-23,"The Travelers Companies, Inc.",Connecticut,Hartford,Mid-level,On-Site,178600.0
-2024-06-23,Eversource,Connecticut,East Berlin,Senior,hybrid,123500.0
+2024-06-23,Eversource,Connecticut,East Berlin,Senior,Hybrid,123500.0
 2024-06-23,Cvs Health,Connecticut,Hartford,Senior,On-Site,151667.5
 2024-06-23,The Cigna Group,Connecticut,Bloomfield,Senior,Hybrid,161900.0
 2024-06-23,"The Travelers Companies, Inc.",Connecticut,Hartford,Mid-level,On-Site,157400.0
@@ -753,7 +753,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,"Amazon Web Services, Inc.",District of Columbia,Arlington,Senior,On-Site,122900.0
 2024-06-23,Ibm,District of Columbia,Reston,Mid-level,On-Site,120000.0
 2024-06-23,Booz Allen,District of Columbia,Washington,Senior,On-Site,158300.0
-2024-06-23,Icf,District of Columbia,Reston,Lead,remote,138084.5
+2024-06-23,Icf,District of Columbia,Reston,Lead,Remote,138084.5
 2024-06-23,Booz Allen,District of Columbia,Washington,Mid-level,On-Site,158300.0
 2024-06-23,"Amazon Web Services, Inc.",District of Columbia,Arlington,Mid-level,On-Site,118200.0
 2024-06-23,Peraton,District of Columbia,College Park,Senior,On-Site,190000.0
@@ -810,7 +810,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Sunshine State Health Plan,Florida,Pembroke Pines,Mid-level,On-Site,94350.0
 2024-06-23,Hellogov,Florida,Tampa,Mid-level,On-Site,205630.5
 2024-06-23,Navy Federal Credit Union,Florida,Pensacola,Mid-level,On-Site,156050.0
-2024-06-23,Genuine Health Group,Florida,Coral Gables,Senior,hybrid,90000.0
+2024-06-23,Genuine Health Group,Florida,Coral Gables,Senior,Hybrid,90000.0
 2024-06-23,General Dynamics Information Technology,Florida,Macdill AFB,Mid-level,On-Site,150000.0
 2024-06-23,Holland America Line Inc,Florida,Miami,Mid-level,On-Site,97739.0
 2024-06-23,Citi,Florida,Tampa,Mid-level,On-Site,142300.0
@@ -876,7 +876,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Recruiting From Scratch,Hawaii,Honolulu,Lead,On-Site,160000.0
 2024-06-23,Booz Allen,Hawaii,Honolulu,Mid-level,On-Site,123800.0
 2024-06-23,Recruiting From Scratch,Hawaii,Honolulu,Senior,On-Site,165000.0
-2024-06-23,Walgreens,Illinois,Deerfield,Manager,remote,159400.0
+2024-06-23,Walgreens,Illinois,Deerfield,Manager,Remote,159400.0
 2024-06-23,Discover Financial Services,Illinois,Riverwoods,Mid-level,On-Site,151900.0
 2024-06-23,Medical Home Network,Illinois,Chicago,Mid-level,On-Site,95000.0
 2024-06-23,Discover Financial Services,Illinois,Riverwoods,Mid-level,On-Site,87400.0
@@ -903,7 +903,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Transunion,Illinois,Chicago,Mid-level,On-Site,211852.5
 2024-06-23,Discover Financial Services,Illinois,Riverwoods,Mid-level,On-Site,151900.0
 2024-06-23,Adtalem Global Education,Illinois,Chicago,Mid-level,On-Site,136507.92
-2024-06-23,"Us Foods, Inc.",Illinois,Rosemont,Mid-level,remote,165400.0
+2024-06-23,"Us Foods, Inc.",Illinois,Rosemont,Mid-level,Remote,165400.0
 2024-06-23,University Of Illinois Urbana-champaign,Illinois,Urbana,Mid-level,On-Site,85000.0
 2024-06-23,Selby Jennings,Illinois,Chicago,Mid-level,On-Site,212500.0
 2024-06-23,Td Synnex - Shi For Chicago Public Schools...,Illinois,Chicago,Manager,On-Site,130000.0
@@ -963,7 +963,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Commonwealth Health Insurance Connector Authority,Massachusetts,Boston,Mid-level,On-Site,102500.0
 2024-06-23,Cvs Health,Massachusetts,Wellesley,Lead,On-Site,202008.75
 2024-06-23,Cvs Health,Massachusetts,Wellesley,Senior,On-Site,156302.5
-2024-06-23,Cvs Health,Massachusetts,Wellesley,Mid-level,hybrid,151667.5
+2024-06-23,Cvs Health,Massachusetts,Wellesley,Mid-level,Hybrid,151667.5
 2024-06-23,Cvs Health,Massachusetts,Wellesley,Senior,On-Site,151667.5
 2024-06-23,Liberty Mutual,Massachusetts,Boston,Mid-level,On-Site,194050.0
 2024-06-23,Pfizer,Massachusetts,Cambridge,Senior,On-Site,133200.0
@@ -979,7 +979,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Takeda Pharmaceutical,Massachusetts,Boston,Mid-level,On-Site,324000.0
 2024-06-23,Servier,Massachusetts,Boston,Associate,On-Site,153086.0
 2024-06-23,Costello Medical,Massachusetts,Boston,Senior,On-Site,91500.0
-2024-06-23,Eversource,Massachusetts,Hadley,Senior,hybrid,123500.0
+2024-06-23,Eversource,Massachusetts,Hadley,Senior,Hybrid,123500.0
 2024-06-23,L.e.k. Consulting,Massachusetts,Boston,Senior,On-Site,132500.0
 2024-06-23,Humana,Massachusetts,Boston,Associate,On-Site,242700.0
 2024-06-23,Ibm,Massachusetts,Boston,Mid-level,On-Site,175500.0
@@ -989,7 +989,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Sarepta Therapeutics,Massachusetts,Cambridge,Senior,On-Site,112500.0
 2024-06-23,Zoominfo Technologies Llc,Massachusetts,Waltham,Mid-level,On-Site,275500.0
 2024-06-23,The Cigna Group,Massachusetts,Newton,Senior,Hybrid,161900.0
-2024-06-23,Eversource,Massachusetts,Westwood,Mid-level,hybrid,101585.0
+2024-06-23,Eversource,Massachusetts,Westwood,Mid-level,Hybrid,101585.0
 2024-06-23,Draftkings,Massachusetts,Boston,Manager,On-Site,141750.0
 2024-06-23,Autonodyne Llc,Massachusetts,Boston,Mid-level,On-Site,130000.0
 2024-06-23,"Red Hat, Inc.",Massachusetts,Westford,Senior,On-Site,191655.0
@@ -1002,10 +1002,10 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Amazon.com Services Llc,Massachusetts,Boston,Senior,On-Site,150400.0
 2024-06-23,State Street,Massachusetts,Quincy,Mid-level,On-Site,116250.0
 2024-06-23,State Street,Massachusetts,Quincy,Mid-level,On-Site,97500.0
-2024-06-23,Eversource,Massachusetts,Westwood,Manager,hybrid,167770.0
+2024-06-23,Eversource,Massachusetts,Westwood,Manager,Hybrid,167770.0
 2024-06-23,Recruiting From Scratch,Massachusetts,Medford,Lead,On-Site,160000.0
 2024-06-23,Takeda Pharmaceutical,Massachusetts,Lexington,Manager,On-Site,184100.0
-2024-06-23,Merck Sharp & Dohme,Massachusetts,Cambridge,Senior,hybrid,158050.0
+2024-06-23,Merck Sharp & Dohme,Massachusetts,Cambridge,Senior,Hybrid,158050.0
 2024-06-23,Amazon.com Services Llc,Massachusetts,Boston,Senior,On-Site,134500.0
 2024-06-23,Recruiting From Scratch,Massachusetts,Cambridge,Senior,On-Site,165000.0
 2024-06-23,Sagclay,Michigan,Ann Arbor,Manager,On-Site,170000.0
@@ -1017,7 +1017,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Kla,Michigan,Ann Arbor,Manager,On-Site,123650.0
 2024-06-23,Recruiting From Scratch,Michigan,Kentwood,Senior,On-Site,165000.0
 2024-06-23,Target,Minnesota,Minneapolis,Lead,On-Site,177250.0
-2024-06-23,Target,Minnesota,Minneapolis,Lead,remote,200050.0
+2024-06-23,Target,Minnesota,Minneapolis,Lead,Remote,200050.0
 2024-06-23,Medtronic,Minnesota,Minneapolis,Manager,On-Site,136000.0
 2024-06-23,Mayo Clinic,Minnesota,Rochester,Mid-level,On-Site,173929.6
 2024-06-23,Rvo Health,Minnesota,Minneapolis,Senior,On-Site,113750.0
@@ -1026,7 +1026,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Target,Minnesota,Minneapolis,Mid-level,On-Site,157600.0
 2024-06-23,Aon Corporation,Minnesota,Bloomington,Lead,On-Site,167500.0
 2024-06-23,Optum,Minnesota,Minneapolis,Lead,Remote,147550.0
-2024-06-23,Barr Engineering,Minnesota,Minneapolis,Mid-level,hybrid,102000.0
+2024-06-23,Barr Engineering,Minnesota,Minneapolis,Mid-level,Hybrid,102000.0
 2024-06-23,Optum,Minnesota,Eden Prairie,Lead,Remote,147550.0
 2024-06-23,State Of Minnesota,Minnesota,Saint Paul,Manager,On-Site,144938.0
 2024-06-23,Recruiting From Scratch,Minnesota,Minneapolis,Lead,On-Site,160000.0
@@ -1052,7 +1052,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Aristocrat Gaming,Nevada,Reno,Manager,On-Site,181451.5
 2024-06-23,Recruiting From Scratch,Nevada,Las Vegas,Lead,On-Site,160000.0
 2024-06-23,Recruiting From Scratch,Nevada,Las Vegas,Senior,On-Site,165000.0
-2024-06-23,Eversource,New Hampshire,Manchester,Senior,hybrid,123500.0
+2024-06-23,Eversource,New Hampshire,Manchester,Senior,Hybrid,123500.0
 2024-06-23,Recruiting From Scratch,New Hampshire,Hudson,Lead,On-Site,160000.0
 2024-06-23,Recruiting From Scratch,New Hampshire,Hudson,Senior,On-Site,165000.0
 2024-06-23,Prudential,New Jersey,Newark,Senior,On-Site,131100.0
@@ -1082,7 +1082,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Nbcuniversal,New Jersey,Englewood Cliffs,Mid-level,On-Site,150000.0
 2024-06-23,Regeneron Pharmaceuticals Inc.,New Jersey,Basking Ridge,Manager,On-Site,163500.0
 2024-06-23,Johnson & Johnson,New Jersey,Titusville,Senior,On-Site,141500.0
-2024-06-23,Citi,New Jersey,Jersey City,Mid-level,hybrid,235000.0
+2024-06-23,Citi,New Jersey,Jersey City,Mid-level,Hybrid,235000.0
 2024-06-23,Rutgers University,New Jersey,Newark,Mid-level,On-Site,30001.0
 2024-06-23,Bloomberg,New Jersey,Princeton,Senior,On-Site,140000.0
 2024-06-23,Jpmorgan Chase & Co,New Jersey,Jersey City,Lead,On-Site,176250.0
@@ -1100,7 +1100,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Prudential,New Jersey,Newark,Senior,On-Site,131100.0
 2024-06-23,Walmart,New Jersey,Hoboken,Senior,On-Site,162000.0
 2024-06-23,Jpmorgan Chase & Co,New Jersey,Jersey City,Senior,On-Site,215500.0
-2024-06-23,Cognizant,New Jersey,Bridgewater,Mid-level,hybrid,132750.0
+2024-06-23,Cognizant,New Jersey,Bridgewater,Mid-level,Hybrid,132750.0
 2024-06-23,Recruiting From Scratch,New Jersey,Trenton,Lead,On-Site,160000.0
 2024-06-23,Recruiting From Scratch,New Jersey,North Caldwell,Senior,On-Site,165000.0
 2024-06-23,Chubb,New Jersey,Jersey City,Lead,On-Site,171750.0
@@ -1147,7 +1147,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Regeneron Pharmaceuticals Inc.,New York,Tarrytown,Senior,On-Site,119400.0
 2024-06-23,Nyc Careers,New York,New York,Senior,On-Site,100815.5
 2024-06-23,Ramp Financial,New York,New York,Mid-level,On-Site,245125.0
-2024-06-23,Cvs Health,New York,New York,Senior,hybrid,156302.5
+2024-06-23,Cvs Health,New York,New York,Senior,Hybrid,156302.5
 2024-06-23,Resilience,New York,New York,Mid-level,On-Site,152500.0
 2024-06-23,Cvs Health,New York,New York,Mid-level,On-Site,142500.0
 2024-06-23,Solytics Partners Llc,New York,New York,Mid-level,On-Site,105000.0
@@ -1235,7 +1235,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,"Amtrust Financial Services, Inc.",New York,New York,Senior,On-Site,120000.0
 2024-06-23,Zenith,New York,New York,Manager,On-Site,107500.0
 2024-06-23,"Amazon Development Center U.s., Inc.",New York,New York,Mid-level,On-Site,136000.0
-2024-06-23,Univision Communications Inc,New York,New York,Mid-level,remote,185000.0
+2024-06-23,Univision Communications Inc,New York,New York,Mid-level,Remote,185000.0
 2024-06-23,Smarsh,New York,New York,Manager,On-Site,195000.0
 2024-06-23,Amazon.com Services Llc,New York,New York,Mid-level,On-Site,150400.0
 2024-06-23,Amazon.com Services Llc,New York,New York,Mid-level,On-Site,136000.0
@@ -1360,7 +1360,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Coventbridge Group,Ohio,United States,Mid-level,On-Site,120000.0
 2024-06-23,University Of Oklahoma,Oklahoma,Norman,Mid-level,On-Site,65000.0
 2024-06-23,Oklahoma State University,Oklahoma,Stillwater,Manager,On-Site,63300.0
-2024-06-23,Nike,Oregon,Seaside,Lead,remote,119400.0
+2024-06-23,Nike,Oregon,Seaside,Lead,Remote,119400.0
 2024-06-23,Trimet,Oregon,Portland,Senior,On-Site,102435.5
 2024-06-23,University Of Oregon,Oregon,Eugene,Mid-level,On-Site,158700.0
 2024-06-23,Nvidia,Oregon,Hillsboro,Mid-level,On-Site,213750.0
@@ -1498,7 +1498,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Charles Schwab,Texas,Austin,Manager,On-Site,168938.0
 2024-06-23,Tiaa,Texas,Frisco,Lead,On-Site,136200.0
 2024-06-23,Brookwoods Group,Texas,Spring,Mid-level,On-Site,185000.0
-2024-06-23,Usaa,Texas,San Antonio,Mid-level,remote,265915.0
+2024-06-23,Usaa,Texas,San Antonio,Mid-level,Remote,265915.0
 2024-06-23,Jll,Texas,Dallas,Mid-level,On-Site,95000.0
 2024-06-23,Amazon.com Services Llc,Texas,Austin,Mid-level,On-Site,136000.0
 2024-06-23,Visa,Texas,Austin,Mid-level,On-Site,224725.0
@@ -1890,7 +1890,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,Amazon.com Services Llc,Washington,Bellevue,Mid-level,On-Site,151300.0
 2024-06-23,Amazon.com Services Llc,Washington,Seattle,Mid-level,On-Site,150400.0
 2024-06-23,Tiktok,Washington,Seattle,Senior,On-Site,260775.0
-2024-06-23,Starbucks,Washington,Seattle,Lead,hybrid,194200.0
+2024-06-23,Starbucks,Washington,Seattle,Lead,Hybrid,194200.0
 2024-06-23,Walmart,Washington,Bellevue,Senior,On-Site,240000.0
 2024-06-23,Walmart,Washington,Bellevue,Mid-level,On-Site,198000.0
 2024-06-23,Amazon.com Services Llc,Washington,Seattle,Senior,On-Site,150400.0
@@ -1917,7 +1917,7 @@ Date,Company,State,City,Level,Work_Type,Average_salary
 2024-06-23,University Of Wisconsin–madison,Wisconsin,Madison,Mid-level,On-Site,48814.0
 2024-06-23,Northwestern Mutual,Wisconsin,Milwaukee,Lead,On-Site,121030.0
 2024-06-23,Northwestern Mutual,Wisconsin,Milwaukee,Lead,On-Site,121030.0
-2024-06-23,Collins Aerospace,Wisconsin,Wisconsin,Mid-level,remote,148000.0
+2024-06-23,Collins Aerospace,Wisconsin,Wisconsin,Mid-level,Remote,148000.0
 2024-06-23,Northwestern Mutual,Wisconsin,Milwaukee,Senior,On-Site,100030.0
 2024-06-23,Northwestern Mutual,Wisconsin,Milwaukee,Mid-level,On-Site,146440.0
 2024-06-23,Recruiting From Scratch,Wisconsin,Madison,Lead,On-Site,160000.0
@@ -2119,7 +2119,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-24,Allstate,Illinois,Chicago,Mid-level,Remote,164125.0
 2024-06-24,Chicago Public Schools,Illinois,Chicago,Manager,On-Site,130000.0
 2024-06-24,Discover Financial Services,Illinois,Riverwoods,Senior,On-Site,102500.0
-2024-06-24,Allstate,Illinois,Chicago,Lead,remote,196000.0
+2024-06-24,Allstate,Illinois,Chicago,Lead,Remote,196000.0
 2024-06-24,Recruiting From Scratch,Kansas,Wichita,Lead,On-Site,160000.0
 2024-06-24,Recruiting From Scratch,Kansas,Wichita,Senior,On-Site,165000.0
 2024-06-24,Kearney & Company,Kansas,United States,Senior,On-Site,102500.0
@@ -2294,7 +2294,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-24,Apple,Washington,Seattle,Mid-level,On-Site,187400.0
 2024-06-24,Amazon.com Services Llc,Washington,Bellevue,Mid-level,On-Site,125500.0
 2024-06-24,Kohler,Wisconsin,Kohler,Mid-level,On-Site,122400.0
-2024-06-24,Collins Aerospace,Wisconsin,Wisconsin,Mid-level,remote,148000.0
+2024-06-24,Collins Aerospace,Wisconsin,Wisconsin,Mid-level,Remote,148000.0
 2024-06-25,Scientific Research Corporation,Alabama,Huntsville,Mid-level,On-Site,124475.0
 2024-06-25,Verus Research,Alabama,United States,Mid-level,On-Site,147500.0
 2024-06-25,Auburn University At Montgomery,Alabama,Montgomery,Mid-level,On-Site,95000.0
@@ -2519,7 +2519,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-26,Allstate,Illinois,Illinois,Mid-level,On-Site,104150.0
 2024-06-26,Discover Financial Services,Illinois,Riverwoods,Lead,On-Site,122900.0
 2024-06-26,Transunion,Illinois,Chicago,Mid-level,On-Site,125552.5
-2024-06-26,Allstate,Illinois,Chicago,Lead,remote,196000.0
+2024-06-26,Allstate,Illinois,Chicago,Lead,Remote,196000.0
 2024-06-26,Transunion,Illinois,Chicago,Mid-level,On-Site,211852.5
 2024-06-26,Glassdoor,Illinois,Chicago,Mid-level,On-Site,142150.0
 2024-06-26,V15p1talon Test Client,Illinois,Chicago,Mid-level,On-Site,35000.0
@@ -2546,7 +2546,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-26,Zoox,Massachusetts,Boston,Senior,On-Site,241500.0
 2024-06-26,Sarepta Therapeutics,Massachusetts,Cambridge,Senior,On-Site,112500.0
 2024-06-26,"Red Hat, Inc.",Massachusetts,Westford,Senior,On-Site,191655.0
-2024-06-26,Eversource,Massachusetts,Westwood,Manager,hybrid,167770.0
+2024-06-26,Eversource,Massachusetts,Westwood,Manager,Hybrid,167770.0
 2024-06-26,Leidos,Michigan,Ann Arbor,Mid-level,On-Site,91250.0
 2024-06-26,Mars Solutions Group,Michigan,Shelby Charter Township,Manager,On-Site,85000.0
 2024-06-26,Aurora Innovation,Michigan,Detroit,Manager,On-Site,158500.0
@@ -2645,7 +2645,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-26,Usaa,Texas,San Antonio,Senior,On-Site,152780.0
 2024-06-26,Usaa,Texas,San Antonio,Mid-level,On-Site,130995.0
 2024-06-26,Sam's Club,Texas,Dallas,Mid-level,On-Site,135000.0
-2024-06-26,Altus Group,Texas,Houston,Mid-level,remote,101400.0
+2024-06-26,Altus Group,Texas,Houston,Mid-level,Remote,101400.0
 2024-06-26,Usaa,Texas,Plano,Mid-level,On-Site,125990.0
 2024-06-26,Annapurna Labs (u.s.) Inc.,Texas,Austin,Mid-level,On-Site,150400.0
 2024-06-26,Glassdoor,Texas,Austin,Mid-level,On-Site,142150.0
@@ -2655,7 +2655,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-26,Annapurna Labs (u.s.) Inc.,Texas,Seattle,Mid-level,On-Site,129300.0
 2024-06-26,"Mission Servicing Residential, Inc.",Texas,Texas,Mid-level,On-Site,130000.0
 2024-06-26,Ehub Global,Texas,Dallas,Lead,On-Site,132102.29
-2024-06-26,Citi,Texas,Irving,Mid-level,hybrid,157200.0
+2024-06-26,Citi,Texas,Irving,Mid-level,Hybrid,157200.0
 2024-06-26,Chg Healthcare,Utah,Salt Lake City,Mid-level,On-Site,99100.0
 2024-06-26,"Lantana Consulting Group, Inc.",Vermont,Vermont,Mid-level,On-Site,130000.0
 2024-06-26,Uva Health,Virginia,Charlottesville,Mid-level,On-Site,116376.0
@@ -2678,7 +2678,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-26,Tiktok,Washington,Seattle,Mid-level,On-Site,240201.5
 2024-06-26,Starbucks,Washington,Seattle,Mid-level,On-Site,128950.0
 2024-06-26,Amazon.com Services Llc,Washington,Seattle,Senior,On-Site,143300.0
-2024-06-26,Nordstrom Inc,Washington,Seattle,Mid-level,hybrid,170500.0
+2024-06-26,Nordstrom Inc,Washington,Seattle,Mid-level,Hybrid,170500.0
 2024-06-26,Expedia Partner Solutions,Washington,Seattle,Mid-level,On-Site,179000.0
 2024-06-26,Walmart,Washington,Bellevue,Mid-level,On-Site,162000.0
 2024-06-26,Microsoft,Washington,Redmond,Senior,On-Site,173200.0
@@ -2711,7 +2711,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-26,"Amazon Web Services, Inc.",Washington,Bellevue,Mid-level,On-Site,150400.0
 2024-06-26,Amazon.com Services Llc,Washington,Seattle,Senior,On-Site,150400.0
 2024-06-27,Recruiting From Scratch,Alabama,Huntsville,Lead,On-Site,185000.0
-2024-06-27,Raytheon Technologies Corporate Headquarters,Arizona,Tucson,Senior,hybrid,96000.0
+2024-06-27,Raytheon Technologies Corporate Headquarters,Arizona,Tucson,Senior,Hybrid,96000.0
 2024-06-27,Recruiting From Scratch,Arizona,Tucson,Lead,On-Site,185000.0
 2024-06-27,Walmart,Arkansas,Bentonville,Senior,On-Site,117500.0
 2024-06-27,Apple,California,Sunnyvale,Mid-level,On-Site,186900.0
@@ -2791,10 +2791,10 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-27,"The Travelers Companies, Inc.",Connecticut,Hartford,Mid-level,On-Site,178600.0
 2024-06-27,Pfizer,Connecticut,Groton,Manager,On-Site,124700.0
 2024-06-27,"The Travelers Companies, Inc.",Connecticut,Hartford,Senior,On-Site,182950.0
-2024-06-27,Eversource,Connecticut,East Berlin,Senior,hybrid,123500.0
+2024-06-27,Eversource,Connecticut,East Berlin,Senior,Hybrid,123500.0
 2024-06-27,The Cigna Group,Connecticut,Bloomfield,Senior,On-Site,145450.0
 2024-06-27,The Hartford,Connecticut,Hartford,Senior,On-Site,141700.0
-2024-06-27,Eversource,Connecticut,East Berlin,Manager,hybrid,167770.0
+2024-06-27,Eversource,Connecticut,East Berlin,Manager,Hybrid,167770.0
 2024-06-27,Recruiting From Scratch,Connecticut,Fairfield,Lead,On-Site,185000.0
 2024-06-27,The Cigna Group,Connecticut,Bloomfield,Senior,Hybrid,161900.0
 2024-06-27,Bright Star Solutions Llc,District of Columbia,Washington,Mid-level,On-Site,165000.0
@@ -2820,7 +2820,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-27,Booz Allen,District of Columbia,Bethesda,Senior,On-Site,158300.0
 2024-06-27,Booz Allen,District of Columbia,Washington,Senior,On-Site,199200.0
 2024-06-27,Southern Glazer’s Wine And Spirits,Florida,Miramar,Mid-level,On-Site,95000.0
-2024-06-27,Citi,Florida,Tampa,Mid-level,hybrid,109100.0
+2024-06-27,Citi,Florida,Tampa,Mid-level,Hybrid,109100.0
 2024-06-27,General Dynamics Information Technology,Florida,Tampa,Mid-level,On-Site,98000.0
 2024-06-27,Recruiting From Scratch,Florida,Clearwater,Lead,On-Site,185000.0
 2024-06-27,General Dynamics Information Technology,Florida,Macdill AFB,Mid-level,On-Site,98000.0
@@ -2836,7 +2836,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-27,Abbott Laboratories,Illinois,Lake Forest,Mid-level,On-Site,215000.0
 2024-06-27,Zurich Insurance Company Ltd.,Illinois,Illinois,Lead,On-Site,127000.0
 2024-06-27,Saba Health Care,Illinois,Illinois,Mid-level,On-Site,160000.0
-2024-06-27,Cognizant,Illinois,Chicago,Mid-level,remote,207500.0
+2024-06-27,Cognizant,Illinois,Chicago,Mid-level,Remote,207500.0
 2024-06-27,Saba Health Care,Illinois,Illinois,Mid-level,On-Site,160000.0
 2024-06-27,Recruiting From Scratch,Indiana,West Lafayette,Lead,On-Site,185000.0
 2024-06-27,Recruiting From Scratch,Kansas,Wichita,Lead,On-Site,185000.0
@@ -2857,10 +2857,10 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-27,Northrop Grumman,Maryland,Linthicum,Mid-level,On-Site,158800.0
 2024-06-27,Booz Allen,Maryland,Bethesda,Senior,On-Site,158300.0
 2024-06-27,Cvs Health,Massachusetts,Wellesley,Mid-level,On-Site,125402.5
-2024-06-27,Cvs Health,Massachusetts,Wellesley,Mid-level,hybrid,151667.5
+2024-06-27,Cvs Health,Massachusetts,Wellesley,Mid-level,Hybrid,151667.5
 2024-06-27,Cvs Health,Massachusetts,Wellesley,Senior,On-Site,156302.5
 2024-06-27,State Street,Massachusetts,Boston,Mid-level,On-Site,148750.0
-2024-06-27,Eversource,Massachusetts,Westwood,Mid-level,hybrid,101585.0
+2024-06-27,Eversource,Massachusetts,Westwood,Mid-level,Hybrid,101585.0
 2024-06-27,Recruiting From Scratch,Massachusetts,Medford,Lead,On-Site,185000.0
 2024-06-27,Amazon.com Services Llc,Massachusetts,Boston,Senior,On-Site,150400.0
 2024-06-27,Recruiting From Scratch,Michigan,Livonia,Lead,On-Site,185000.0
@@ -3025,7 +3025,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-28,Amazon.com Services Llc,California,Sunnyvale,Mid-level,On-Site,136000.0
 2024-06-28,Docusign,California,San Francisco,Lead,On-Site,198775.0
 2024-06-28,Systems Technology Inc,California,California,Mid-level,On-Site,135000.0
-2024-06-28,Blackhawk Network,California,Pleasanton,Mid-level,hybrid,157360.0
+2024-06-28,Blackhawk Network,California,Pleasanton,Mid-level,Hybrid,157360.0
 2024-06-28,Khan Academy,California,Mountain View,Mid-level,On-Site,204739.0
 2024-06-28,University Of California Berkeley,California,Berkeley,Mid-level,On-Site,134150.0
 2024-06-28,Chan Zuckerberg Initiative,California,Redwood City,Mid-level,On-Site,267500.0
@@ -3069,7 +3069,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-28,University Of Florida,Florida,Gainesville,Mid-level,On-Site,90000.0
 2024-06-28,Publix,Florida,Lakeland,Lead,On-Site,161500.0
 2024-06-28,School District Of Osceola County,Florida,Kissimmee,Mid-level,On-Site,49000.0
-2024-06-28,Offerup,Florida,Miami,Senior,remote,265000.0
+2024-06-28,Offerup,Florida,Miami,Senior,Remote,265000.0
 2024-06-28,Recruiting From Scratch,Florida,Miami,Lead,On-Site,185000.0
 2024-06-28,Landis+gyr,Georgia,Alpharetta,Senior,On-Site,137588.0
 2024-06-28,Rvo Health,Georgia,Atlanta,Senior,On-Site,113750.0
@@ -3086,14 +3086,14 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-28,Booz Allen,Maryland,Annapolis Junction,Senior,On-Site,158300.0
 2024-06-28,Commonwealth Health Insurance Connector Authority,Massachusetts,Boston,Mid-level,On-Site,102500.0
 2024-06-28,Cvs Health,Massachusetts,Wellesley,Lead,On-Site,202008.75
-2024-06-28,Cvs Health,Massachusetts,Wellesley,Mid-level,hybrid,151667.5
+2024-06-28,Cvs Health,Massachusetts,Wellesley,Mid-level,Hybrid,151667.5
 2024-06-28,Cvs Health,Massachusetts,Wellesley,Mid-level,On-Site,151750.0
 2024-06-28,Recruiting From Scratch,Massachusetts,Boston,Lead,On-Site,185000.0
 2024-06-28,Mars Solutions Group,Michigan,Shelby Charter Township,Manager,On-Site,85000.0
 2024-06-28,Cybotic System,Michigan,Shelby Charter Township,Manager,On-Site,75000.0
-2024-06-28,Securian Financial Group,Minnesota,Saint Paul,Mid-level,hybrid,119500.0
+2024-06-28,Securian Financial Group,Minnesota,Saint Paul,Mid-level,Hybrid,119500.0
 2024-06-28,Johnson & Johnson,New Jersey,Raritan,Lead,On-Site,117450.0
-2024-06-28,Merck Sharp & Dohme,New Jersey,Rahway,Mid-level,hybrid,233700.0
+2024-06-28,Merck Sharp & Dohme,New Jersey,Rahway,Mid-level,Hybrid,233700.0
 2024-06-28,Nbcuniversal,New Jersey,Englewood Cliffs,Mid-level,On-Site,150000.0
 2024-06-28,Triunity Software,New Jersey,Princeton,Mid-level,On-Site,85000.0
 2024-06-28,Recruiting From Scratch,New Jersey,Trenton,Lead,On-Site,185000.0
@@ -3135,8 +3135,8 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-28,Jpmorgan Chase & Co,New York,New York,Mid-level,On-Site,274125.0
 2024-06-28,Vericast,North Carolina,Morrisville,Mid-level,On-Site,195000.0
 2024-06-28,Cvs Health,North Carolina,Cary,Mid-level,On-Site,139050.0
-2024-06-28,Collins Aerospace,North Carolina,North Carolina,Mid-level,remote,96000.0
-2024-06-28,Collins Aerospace,North Carolina,North Carolina,Mid-level,remote,120000.0
+2024-06-28,Collins Aerospace,North Carolina,North Carolina,Mid-level,Remote,96000.0
+2024-06-28,Collins Aerospace,North Carolina,North Carolina,Mid-level,Remote,120000.0
 2024-06-28,Recruiting From Scratch,North Carolina,Charlotte,Lead,On-Site,185000.0
 2024-06-28,Applied Digital,North Dakota,Ellendale,Mid-level,On-Site,69000.0
 2024-06-28,E Business International Inc.,Ohio,Columbus,Mid-level,On-Site,90000.0
@@ -3165,7 +3165,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-28,Saviynt,Remote,Remote,Mid-level,Remote,210000.0
 2024-06-28,State Of Minnesota,Remote,Remote,Manager,Remote,144938.0
 2024-06-28,Babel Street,Remote,Remote,Mid-level,Remote,145000.0
-2024-06-28,Cvs Health,Rhode Island,Woonsocket,Senior,hybrid,151667.5
+2024-06-28,Cvs Health,Rhode Island,Woonsocket,Senior,Hybrid,151667.5
 2024-06-28,South Dakota State University,South Dakota,Brookings,Mid-level,Remote,52000.0
 2024-06-28,Recruiting From Scratch,Tennessee,Nashville,Lead,On-Site,185000.0
 2024-06-28,Usaa,Texas,San Antonio,Mid-level,On-Site,130995.0
@@ -3324,7 +3324,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-06-29,Booz Allen,North Carolina,Camp Lejeune,Mid-level,On-Site,123800.0
 2024-06-29,City National Bank,North Carolina,Raleigh,Mid-level,On-Site,165625.0
 2024-06-29,Hii,Ohio,Wright-Patterson AFB,Manager,On-Site,80751.5
-2024-06-29,Nike,Oregon,Beaverton,Senior,remote,99500.0
+2024-06-29,Nike,Oregon,Beaverton,Senior,Remote,99500.0
 2024-06-29,The Standard,Oregon,Portland,Manager,On-Site,176500.0
 2024-06-29,Erm Group,Oregon,Portland,Mid-level,On-Site,75906.5
 2024-06-29,"Amazon Development Center U.s., Inc.",Oregon,Portland,Mid-level,On-Site,136000.0
@@ -3533,7 +3533,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-01,General Dynamics Information Technology,Virginia,Herndon,Mid-level,On-Site,180980.0
 2024-07-01,Booz Allen,Virginia,McLean,Senior,On-Site,158300.0
 2024-07-01,Microsoft,Washington,Redmond,Mid-level,On-Site,145750.0
-2024-07-01,Nordstrom Inc,Washington,Seattle,Mid-level,hybrid,145750.0
+2024-07-01,Nordstrom Inc,Washington,Seattle,Mid-level,Hybrid,145750.0
 2024-07-01,"T-mobile Usa, Inc.",Washington,Bellevue,Senior,On-Site,162050.0
 2024-07-01,Tiktok,Washington,Seattle,Mid-level,On-Site,271000.0
 2024-07-01,Microsoft,Washington,Redmond,Mid-level,On-Site,173200.0
@@ -3583,7 +3583,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-02,Engen,Pennsylvania,Pennsylvania,Senior,On-Site,124800.0
 2024-07-02,Humana,Remote,Remote,Senior,Remote,124550.0
 2024-07-02,Usaa,Remote,Remote,Lead,Remote,222545.0
-2024-07-02,Cvs Health,Rhode Island,Woonsocket,Senior,hybrid,151667.5
+2024-07-02,Cvs Health,Rhode Island,Woonsocket,Senior,Hybrid,151667.5
 2024-07-02,Fm Global,Rhode Island,Johnston,Mid-level,On-Site,122350.0
 2024-07-02,Corelogic,Texas,Dallas,Senior,On-Site,127250.0
 2024-07-02,Wcf Insurance,Utah,Sandy,Mid-level,On-Site,90900.0
@@ -3598,10 +3598,10 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-04,Uber,California,San Francisco,Mid-level,On-Site,149000.0
 2024-07-04,Booz Allen,Colorado,Colorado Springs,Mid-level,On-Site,123800.0
 2024-07-04,Confidential,Colorado,Denver,Lead,On-Site,140000.0
-2024-07-04,The Hartford,Connecticut,Hartford,Mid-level,remote,132100.0
+2024-07-04,The Hartford,Connecticut,Hartford,Mid-level,Remote,132100.0
 2024-07-04,Booz Allen,District of Columbia,Washington,Senior,On-Site,158300.0
 2024-07-04,"One Agency, Llc",Florida,Orlando,Mid-level,On-Site,112500.0
-2024-07-04,Home Depot / Thd,Georgia,Atlanta,Mid-level,remote,125000.0
+2024-07-04,Home Depot / Thd,Georgia,Atlanta,Mid-level,Remote,125000.0
 2024-07-04,Home Depot / Thd,Georgia,Atlanta,Manager,On-Site,105000.0
 2024-07-04,Workday,Georgia,Atlanta,Senior,On-Site,184600.0
 2024-07-04,Insi Cloud Inc,Hawaii,Honolulu,Mid-level,On-Site,160000.0
@@ -3721,7 +3721,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-09,Tiktok,California,San Jose,Graduate,On-Site,197500.0
 2024-07-09,Instagram,California,Menlo Park,Mid-level,On-Site,243500.0
 2024-07-09,Netflix,California,Los Gatos,Mid-level,On-Site,680000.0
-2024-07-09,Autodesk,California,California,Mid-level,remote,248880.0
+2024-07-09,Autodesk,California,California,Mid-level,Remote,248880.0
 2024-07-09,Marshall B Ketchum University,California,Fullerton,Mid-level,On-Site,80000.0
 2024-07-09,Southern California Edison,California,Rosemead,Senior,On-Site,146500.0
 2024-07-09,Ucla,California,Los Angeles,Mid-level,On-Site,70903.5
@@ -3867,9 +3867,9 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-09,Abbott Laboratories,Illinois,Chicago,Mid-level,On-Site,164000.0
 2024-07-09,Cvs Health,Illinois,Chicago,Lead,On-Site,194200.0
 2024-07-09,Ecg Management Consultants,Illinois,Chicago,Senior,On-Site,115000.0
-2024-07-09,Epsilon,Illinois,Chicago,Mid-level,remote,120000.0
+2024-07-09,Epsilon,Illinois,Chicago,Mid-level,Remote,120000.0
 2024-07-09,Paypal,Illinois,Chicago,Senior,On-Site,144550.0
-2024-07-09,Epsilon,Illinois,Chicago,Senior,remote,140000.0
+2024-07-09,Epsilon,Illinois,Chicago,Senior,Remote,140000.0
 2024-07-09,Ibm,Louisiana,Baton Rouge,Mid-level,On-Site,83486.0
 2024-07-09,State Of Maryland,Maryland,Baltimore,Mid-level,On-Site,128183.0
 2024-07-09,Missionboxsol,Maryland,Annapolis,Junior,On-Site,112500.0
@@ -3882,7 +3882,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-09,John Hancock,Massachusetts,Boston,Associate,On-Site,98200.0
 2024-07-09,Draftkings,Massachusetts,Boston,Senior,On-Site,151000.0
 2024-07-09,"Ipsen Bioscience, Inc.",Massachusetts,Cambridge,Mid-level,On-Site,138750.0
-2024-07-09,Eversource,Massachusetts,Westwood,Senior,hybrid,123500.0
+2024-07-09,Eversource,Massachusetts,Westwood,Senior,Hybrid,123500.0
 2024-07-09,"Red Hat, Inc.",Massachusetts,Boston,Senior,On-Site,169535.0
 2024-07-09,Medtronic,Minnesota,Mounds View,Senior,On-Site,116000.0
 2024-07-09,Thomson Reuters,Minnesota,Eagan,Senior,On-Site,203900.0
@@ -3978,10 +3978,10 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-09,Eclerx,Texas,Austin,Mid-level,On-Site,130000.0
 2024-07-09,Usaa,Texas,San Antonio,Mid-level,On-Site,125990.0
 2024-07-09,Amazon.com Services Llc,Texas,Austin,Mid-level,On-Site,244450.0
-2024-07-09,Epsilon,Texas,Irving,Mid-level,remote,120000.0
+2024-07-09,Epsilon,Texas,Irving,Mid-level,Remote,120000.0
 2024-07-09,Santander Us,Texas,Dallas,Mid-level,On-Site,253500.0
 2024-07-09,Meta,Texas,Austin,Mid-level,On-Site,157500.0
-2024-07-09,Citi,Texas,Irving,Lead,hybrid,195200.0
+2024-07-09,Citi,Texas,Irving,Lead,Hybrid,195200.0
 2024-07-09,Gilead Sciences,Texas,Austin,Manager,On-Site,149370.0
 2024-07-09,O9 Solutions,Texas,Dallas,Mid-level,On-Site,142500.0
 2024-07-09,Paypal,Texas,Austin,Mid-level,On-Site,231900.0
@@ -4019,7 +4019,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-09,"Amazon Web Services, Inc.",Washington,Seattle,Mid-level,On-Site,169150.0
 2024-07-09,Amazon.com Services Llc,Washington,Seattle,Mid-level,On-Site,117300.0
 2024-07-09,Fis Global,Washington,Seattle,Senior,On-Site,154950.0
-2024-07-09,Nordstrom Inc,Washington,Seattle,Senior,hybrid,155750.0
+2024-07-09,Nordstrom Inc,Washington,Seattle,Senior,Hybrid,155750.0
 2024-07-09,Amazon.com Services Llc,Washington,Seattle,Mid-level,On-Site,179100.0
 2024-07-09,Zoominfo Technologies Llc,Washington,Vancouver,Mid-level,On-Site,228000.0
 2024-07-09,Pfizer,Washington,Bothell,Manager,On-Site,124700.0
@@ -4087,7 +4087,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-10,General Atomics And Affiliated Companies,California,Poway,Mid-level,On-Site,110016.5
 2024-07-10,Amazon.com Services Llc,California,Santa Clara,Mid-level,On-Site,179100.0
 2024-07-10,Credit Karma,California,Oakland,Mid-level,On-Site,349733.0
-2024-07-10,Nordstrom Inc,California,Los Angeles,Senior,hybrid,155750.0
+2024-07-10,Nordstrom Inc,California,Los Angeles,Senior,Hybrid,155750.0
 2024-07-10,Upstart,California,San Mateo,Manager,On-Site,208450.0
 2024-07-10,Alembic,California,San Francisco,Senior,On-Site,202500.0
 2024-07-10,Global It Resources,California,Los Angeles,Mid-level,On-Site,205000.0
@@ -4211,7 +4211,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-10,Fis Global,Florida,Jacksonville,Senior,On-Site,157600.0
 2024-07-10,Booz Allen,Georgia,Warner Robins,Mid-level,On-Site,123800.0
 2024-07-10,"Fiserv, Inc.",Georgia,Alpharetta,Senior,On-Site,107250.0
-2024-07-10,Home Depot / Thd,Georgia,Atlanta,Mid-level,remote,190000.0
+2024-07-10,Home Depot / Thd,Georgia,Atlanta,Mid-level,Remote,190000.0
 2024-07-10,Canvs,Georgia,Atlanta,Mid-level,On-Site,215000.0
 2024-07-10,Moody's,Georgia,Atlanta,Mid-level,On-Site,175300.0
 2024-07-10,American Systems,Hawaii,Hālawa,Mid-level,On-Site,160000.0
@@ -4309,9 +4309,9 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-10,Fortrea,North Carolina,Durham,Mid-level,On-Site,101807.5
 2024-07-10,Cognizant,North Carolina,Cary,Mid-level,On-Site,210000.0
 2024-07-10,Ibm,North Carolina,Research Triangle Park,Mid-level,On-Site,203000.0
-2024-07-10,Cognizant,North Carolina,Raleigh,Lead,hybrid,155000.0
+2024-07-10,Cognizant,North Carolina,Raleigh,Lead,Hybrid,155000.0
 2024-07-10,Fortrea,North Carolina,Durham,Senior,On-Site,127107.5
-2024-07-10,Msc Industrial Supply Co.,North Carolina,Davidson,Mid-level,hybrid,91260.0
+2024-07-10,Msc Industrial Supply Co.,North Carolina,Davidson,Mid-level,Hybrid,91260.0
 2024-07-10,University Of North Dakota,North Dakota,Grand Forks,Mid-level,On-Site,76500.0
 2024-07-10,Sherwin-williams,Ohio,Cleveland,Senior,On-Site,115569.0
 2024-07-10,Northrop Grumman,Ohio,Wright-Patterson AFB,Mid-level,On-Site,166200.0
@@ -4678,7 +4678,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-15,Noblis,District of Columbia,McLean,Mid-level,On-Site,217362.5
 2024-07-15,Ibm,District of Columbia,Washington,Mid-level,On-Site,175500.0
 2024-07-15,Deloitte,District of Columbia,Rosslyn,Senior,On-Site,168000.0
-2024-07-15,Freddie Mac,District of Columbia,McLean,Senior,hybrid,148000.0
+2024-07-15,Freddie Mac,District of Columbia,McLean,Senior,Hybrid,148000.0
 2024-07-15,Noblis,District of Columbia,Bethesda,Senior,On-Site,176812.5
 2024-07-15,"Amazon Web Services, Inc.",District of Columbia,Arlington,Mid-level,On-Site,195450.0
 2024-07-15,Mantech,District of Columbia,Washington,Mid-level,On-Site,116800.0
@@ -4718,7 +4718,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-14,Baptist Health South Florida,Florida,Florida,Lead,On-Site,163989.14
 2024-07-14,Us Bureau Of Labor Statistics,Florida,Tampa,Mid-level,On-Site,80698.0
 2024-07-14,General Dynamics Ordnance & Tactical Systems,Florida,Niceville,Mid-level,On-Site,64000.0
-2024-07-14,Home Depot / Thd,Georgia,Atlanta,Mid-level,remote,250000.0
+2024-07-14,Home Depot / Thd,Georgia,Atlanta,Mid-level,Remote,250000.0
 2024-07-14,Home Depot / Thd,Georgia,Atlanta,Manager,On-Site,210000.0
 2024-07-14,"Amazon Development Center U.s., Inc.",Georgia,Atlanta,Mid-level,On-Site,179100.0
 2024-07-14,Recruiting From Scratch,Georgia,Atlanta,Mid-level,On-Site,217500.0
@@ -4780,7 +4780,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-14,Thomson Reuters,Minnesota,Eagan,Mid-level,On-Site,106000.0
 2024-07-14,Thomson Reuters,Minnesota,Eagan,Senior,On-Site,203900.0
 2024-07-14,Protiviti,Minnesota,Minneapolis,Manager,On-Site,174500.0
-2024-07-14,Securian Financial Group,Minnesota,Saint Paul,Mid-level,hybrid,119500.0
+2024-07-14,Securian Financial Group,Minnesota,Saint Paul,Mid-level,Hybrid,119500.0
 2024-07-14,Wells Fargo,Minnesota,Minneapolis,Senior,On-Site,134200.0
 2024-07-14,Medtronic,Minnesota,Mounds View,Mid-level,Hybrid,210500.0
 2024-07-14,Protiviti,Minnesota,Minneapolis,Senior,On-Site,192260.0
@@ -4791,7 +4791,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-14,State Of Montana,Montana,Helena,Mid-level,On-Site,72987.2
 2024-07-14,Us Lbm Holdings,Nebraska,United States,Senior,On-Site,80000.0
 2024-07-14,American Heart Association,Nevada,Las Vegas,Mid-level,On-Site,95000.0
-2024-07-14,Eversource,New Hampshire,Manchester,Senior,hybrid,123500.0
+2024-07-14,Eversource,New Hampshire,Manchester,Senior,Hybrid,123500.0
 2024-07-14,Johnson & Johnson,New Jersey,Titusville,Senior,On-Site,154250.0
 2024-07-14,Walmart,New Jersey,Hoboken,Senior,On-Site,203500.0
 2024-07-14,Recruiting From Scratch,New Jersey,Trenton,Mid-level,On-Site,217500.0
@@ -4873,8 +4873,8 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-14,Vns Health,New York,Manhattan,Mid-level,On-Site,160800.0
 2024-07-14,Ecu Health,North Carolina,Greenville,Lead,On-Site,134690.40000000002
 2024-07-14,Afterpay,North Carolina,Charlotte,Senior,On-Site,166850.0
-2024-07-14,Cognizant,North Carolina,Charlotte,Mid-level,remote,140000.0
-2024-07-14,Collins Aerospace,North Carolina,North Carolina,Mid-level,remote,120000.0
+2024-07-14,Cognizant,North Carolina,Charlotte,Mid-level,Remote,140000.0
+2024-07-14,Collins Aerospace,North Carolina,North Carolina,Mid-level,Remote,120000.0
 2024-07-14,Recruiting From Scratch,North Carolina,Raleigh,Mid-level,On-Site,217500.0
 2024-07-14,Blue Cross And Blue Shield Of North Carolina,North Carolina,North Carolina,Mid-level,On-Site,96600.0
 2024-07-14,Ibm,North Carolina,Research Triangle Park,Mid-level,On-Site,218000.0
@@ -4944,7 +4944,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-14,The General,Tennessee,Nashville,Senior,On-Site,100500.0
 2024-07-14,Dell,Texas,Round Rock,Mid-level,On-Site,156975.0
 2024-07-14,Brookwoods Group,Texas,Spring,Mid-level,On-Site,185000.0
-2024-07-14,Rise Technical Recruitment Limited,Texas,Houston,Senior,remote,140000.0
+2024-07-14,Rise Technical Recruitment Limited,Texas,Houston,Senior,Remote,140000.0
 2024-07-14,Pepsico,Texas,Plano,Manager,On-Site,171250.0
 2024-07-14,Recruiting From Scratch,Texas,Dallas,Mid-level,On-Site,217500.0
 2024-07-14,Expedia Partner Solutions,Texas,Austin,Mid-level,On-Site,145500.0
@@ -5200,7 +5200,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-16,Biden For President,Delaware,Wilmington,Senior,On-Site,95000.0
 2024-07-17,Us Office Of Naval Research,District of Columbia,Washington,Mid-level,On-Site,80698.0
 2024-07-17,Walmart,District of Columbia,Reston,Mid-level,On-Site,198000.0
-2024-07-17,Marathon Ts,District of Columbia,Washington,Mid-level,hybrid,200000.0
+2024-07-17,Marathon Ts,District of Columbia,Washington,Mid-level,Hybrid,200000.0
 2024-07-17,Viderity Inc.,District of Columbia,Washington,Mid-level,On-Site,160000.0
 2024-07-17,Us Office Of Inspector General,District of Columbia,Alexandria,Mid-level,On-Site,80698.0
 2024-07-17,Walmart,District of Columbia,Reston,Senior,On-Site,153000.0
@@ -5208,7 +5208,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-17,Super Systems Inc,District of Columbia,Washington,Senior,On-Site,235000.0
 2024-07-17,U.s. Secret Service,District of Columbia,Washington,Mid-level,On-Site,118962.0
 2024-07-17,Your Remote Tech Recruiter,District of Columbia,Chantilly,Senior,On-Site,215000.0
-2024-07-17,Icf,District of Columbia,Reston,Mid-level,remote,94313.5
+2024-07-17,Icf,District of Columbia,Reston,Mid-level,Remote,94313.5
 2024-07-17,Shrm,District of Columbia,Alexandria,Mid-level,On-Site,172500.0
 2024-07-17,General Dynamics Information Technology,District of Columbia,Chantilly,Mid-level,On-Site,117852.5
 2024-07-17,Peraton,District of Columbia,Herndon,Mid-level,On-Site,135000.0
@@ -5280,7 +5280,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-16,Thomson Reuters,Michigan,Ann Arbor,Senior,On-Site,203900.0
 2024-07-16,Kla,Michigan,Ann Arbor,Manager,On-Site,123650.0
 2024-07-16,Kla,Michigan,Ann Arbor,Senior,On-Site,127450.0
-2024-07-16,Patterson,Minnesota,Saint Paul,Senior,remote,100000.0
+2024-07-16,Patterson,Minnesota,Saint Paul,Senior,Remote,100000.0
 2024-07-16,Rvo Health,Minnesota,Minneapolis,Senior,On-Site,113750.0
 2024-07-16,Optum,Minnesota,Eden Prairie,Mid-level,Remote,178400.0
 2024-07-16,Thomson Reuters,Minnesota,Eagan,Mid-level,On-Site,106000.0
@@ -5335,7 +5335,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-16,Susquehanna International Group,New York,New York,Mid-level,On-Site,212500.0
 2024-07-16,Ramp Financial,New York,New York,Mid-level,On-Site,245150.0
 2024-07-16,New York Life Insurance Co,New York,New York,Lead,On-Site,164750.0
-2024-07-16,Cepheid,New York,New York,Mid-level,remote,103000.0
+2024-07-16,Cepheid,New York,New York,Mid-level,Remote,103000.0
 2024-07-16,Ubs,New York,New York,Associate,On-Site,137500.0
 2024-07-16,Summer Health,New York,New York,Mid-level,On-Site,200000.0
 2024-07-16,Kitware,New York,Clifton Park,Lead,On-Site,177500.0
@@ -5367,7 +5367,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-16,"Link 2 Solutions, Llc",New York,Florida,Mid-level,On-Site,145000.0
 2024-07-16,Labcorp,North Carolina,Durham,Senior,On-Site,134000.0
 2024-07-16,Trane Technologies,North Carolina,Davidson,Mid-level,On-Site,79000.0
-2024-07-16,Cognizant,North Carolina,Charlotte,Mid-level,remote,140000.0
+2024-07-16,Cognizant,North Carolina,Charlotte,Mid-level,Remote,140000.0
 2024-07-16,Trane Technologies,North Carolina,Davidson,Senior,On-Site,107500.0
 2024-07-16,Thomas Solutions Incorporated,North Carolina,Fort Liberty,Mid-level,On-Site,80000.0
 2024-07-16,Mecklenburg County,North Carolina,Mecklenburg County,Senior,On-Site,84827.405
@@ -5386,7 +5386,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-16,Recruiting From Scratch,Ohio,Cincinnati,Mid-level,On-Site,217500.0
 2024-07-16,Hertz,Oklahoma,Oklahoma City,Mid-level,On-Site,85000.0
 2024-07-16,American Heart Association,Oklahoma,Tulsa,Mid-level,On-Site,95000.0
-2024-07-16,Nike,Oregon,Beaverton,Lead,remote,193450.0
+2024-07-16,Nike,Oregon,Beaverton,Lead,Remote,193450.0
 2024-07-16,The Standard,Oregon,Portland,Manager,On-Site,176500.0
 2024-07-16,American Heart Association,Oregon,Salem,Mid-level,On-Site,95000.0
 2024-07-16,Motion Recruitment,Oregon,Portland,Manager,Hybrid,200000.0
@@ -5460,9 +5460,9 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-16,Inspire Corporation,Virginia,Springfield,Mid-level,On-Site,162500.0
 2024-07-16,Deloitte,Virginia,Rosslyn,Mid-level,On-Site,145000.0
 2024-07-16,Leidos,Virginia,Virginia,Associate,On-Site,75737.5
-2024-07-16,Freddie Mac,Virginia,McLean,Senior,hybrid,148000.0
+2024-07-16,Freddie Mac,Virginia,McLean,Senior,Hybrid,148000.0
 2024-07-16,"Maximus Services, Llc",Virginia,McLean,Mid-level,On-Site,122168.0
-2024-07-16,Icf,Virginia,Reston,Mid-level,remote,94313.5
+2024-07-16,Icf,Virginia,Reston,Mid-level,Remote,94313.5
 2024-07-16,Paypal,Virginia,Virginia,Lead,On-Site,183450.0
 2024-07-16,Microsoft,Washington,Redmond,Mid-level,On-Site,153550.0
 2024-07-16,F5,Washington,Seattle,Mid-level,On-Site,150389.0
@@ -5474,7 +5474,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-16,Apple,Washington,Seattle,Mid-level,On-Site,231450.0
 2024-07-16,Amazon.com Services Llc,Washington,Seattle,Mid-level,On-Site,176450.0
 2024-07-16,Microsoft,Washington,Redmond,Mid-level,On-Site,215800.0
-2024-07-16,Nordstrom Inc,Washington,Seattle,Senior,hybrid,155750.0
+2024-07-16,Nordstrom Inc,Washington,Seattle,Senior,Hybrid,155750.0
 2024-07-16,"Amazon Web Services, Inc.",Washington,Seattle,Senior,On-Site,195450.0
 2024-07-16,"Amazon Web Services, Inc.",Washington,Seattle,Mid-level,On-Site,179100.0
 2024-07-16,Apple,Washington,Seattle,Mid-level,On-Site,193000.0
@@ -5771,9 +5771,9 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-17,Regions,Georgia,Atlanta,Senior,On-Site,112840.4
 2024-07-17,Home Depot / Thd,Georgia,Atlanta,Manager,On-Site,210000.0
 2024-07-17,Cox Automotive,Georgia,Atlanta,Lead,On-Site,156400.0
-2024-07-17,Home Depot / Thd,Georgia,Atlanta,Senior,remote,140000.0
-2024-07-17,Home Depot / Thd,Georgia,Atlanta,Mid-level,remote,190000.0
-2024-07-17,Home Depot / Thd,Georgia,Atlanta,Senior,remote,205000.0
+2024-07-17,Home Depot / Thd,Georgia,Atlanta,Senior,Remote,140000.0
+2024-07-17,Home Depot / Thd,Georgia,Atlanta,Mid-level,Remote,190000.0
+2024-07-17,Home Depot / Thd,Georgia,Atlanta,Senior,Remote,205000.0
 2024-07-17,Unum,Georgia,Atlanta,Mid-level,On-Site,241850.0
 2024-07-17,Protiviti,Georgia,Atlanta,Manager,On-Site,185780.0
 2024-07-17,Us National Oceanic And Atmospheric Administration,Hawaii,Honolulu,Mid-level,On-Site,80698.0
@@ -5811,7 +5811,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-17,Rvo Health,Minnesota,Minneapolis,Senior,On-Site,113750.0
 2024-07-17,Thomson Reuters,Minnesota,Eagan,Mid-level,On-Site,106000.0
 2024-07-17,Thomson Reuters,Minnesota,Eagan,Mid-level,On-Site,106000.0
-2024-07-17,Securian Financial Group,Minnesota,Saint Paul,Mid-level,hybrid,119500.0
+2024-07-17,Securian Financial Group,Minnesota,Saint Paul,Mid-level,Hybrid,119500.0
 2024-07-17,United States Of Care,Minnesota,Minneapolis,Mid-level,On-Site,122500.0
 2024-07-17,Mayo Clinic,Minnesota,Rochester,Mid-level,On-Site,118455.5
 2024-07-17,Medtronic,Minnesota,Mounds View,Senior,On-Site,116000.0
@@ -5839,7 +5839,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-17,Prudential,New Jersey,Newark,Mid-level,On-Site,285200.0
 2024-07-17,Tk-chain Llc,New Jersey,Princeton,Mid-level,On-Site,95000.0
 2024-07-17,Walmart,New Jersey,Hoboken,Mid-level,On-Site,198000.0
-2024-07-17,Merck Sharp & Dohme,New Jersey,Rahway,Mid-level,hybrid,233700.0
+2024-07-17,Merck Sharp & Dohme,New Jersey,Rahway,Mid-level,Hybrid,233700.0
 2024-07-17,Jpmorgan Chase & Co,New Jersey,Jersey City,Mid-level,On-Site,203625.0
 2024-07-17,Rutgers University,New Jersey,Newark,Mid-level,On-Site,30001.0
 2024-07-17,Jpmorgan Chase & Co,New Jersey,Jersey City,Lead,On-Site,203625.0
@@ -5852,7 +5852,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-17,Jpmorgan Chase & Co,New Jersey,Jersey City,Senior,On-Site,162125.0
 2024-07-17,Walmart,New Jersey,Hoboken,Senior,On-Site,162000.0
 2024-07-17,Regeneron Pharmaceuticals Inc.,New Jersey,Basking Ridge,Manager,On-Site,163500.0
-2024-07-17,Cognizant,New Jersey,Bridgewater,Mid-level,hybrid,132750.0
+2024-07-17,Cognizant,New Jersey,Bridgewater,Mid-level,Hybrid,132750.0
 2024-07-17,Newark Board Of Education,New Jersey,Newark,Mid-level,On-Site,86100.0
 2024-07-17,Bloomberg,New Jersey,Princeton,Senior,On-Site,140000.0
 2024-07-17,Prudential,New Jersey,Newark,Mid-level,On-Site,229200.0
@@ -5903,7 +5903,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-17,"Amazon Development Center U.s., Inc.",Oregon,Portland,Senior,On-Site,205200.0
 2024-07-17,Recruiting From Scratch,Oregon,Portland,Mid-level,On-Site,217500.0
 2024-07-17,Careoregon,Oregon,Portland,Mid-level,On-Site,135300.0
-2024-07-17,Jazz Pharmaceuticals,Pennsylvania,Philadelphia,Mid-level,remote,160000.0
+2024-07-17,Jazz Pharmaceuticals,Pennsylvania,Philadelphia,Mid-level,Remote,160000.0
 2024-07-17,Stratagem Group Llc,Pennsylvania,King of Prussia,Mid-level,On-Site,143000.0
 2024-07-17,Expertise France,Remote,Remote,Mid-level,Remote,39005.0
 2024-07-17,The Cigna Group,Remote,Remote,Senior,Remote,161900.0
@@ -5941,7 +5941,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-17,"T-mobile Usa, Inc.",Texas,Frisco,Mid-level,On-Site,158100.0
 2024-07-17,Cvs Health,Texas,Irving,Senior,On-Site,139050.0
 2024-07-17,Usaa,Texas,San Antonio,Senior,On-Site,152780.0
-2024-07-17,Citi,Texas,Irving,Lead,hybrid,195200.0
+2024-07-17,Citi,Texas,Irving,Lead,Hybrid,195200.0
 2024-07-17,"Mission Servicing Residential, Inc.",Texas,Texas,Mid-level,On-Site,130000.0
 2024-07-17,Clearpointco.,Texas,Houston,Senior,On-Site,125000.0
 2024-07-17,Imprivata,Texas,Austin,Senior,On-Site,154300.0
@@ -6132,7 +6132,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-19,Paypal,California,San Jose,Manager,On-Site,165600.0
 2024-07-19,Aurora Innovation,California,Mountain View,Senior,On-Site,140000.0
 2024-07-19,Apple,California,Sunnyvale,Mid-level,On-Site,219950.0
-2024-07-19,Socalgas,California,Anaheim,Mid-level,hybrid,136900.0
+2024-07-19,Socalgas,California,Anaheim,Mid-level,Hybrid,136900.0
 2024-07-19,Amazon.com Services Llc - A57,California,Santa Clara,Mid-level,On-Site,205200.0
 2024-07-19,Amazon.com Services Llc,California,Sunnyvale,Mid-level,On-Site,206400.0
 2024-07-19,"Amazon Development Center U.s., Inc.",California,Santa Clara,Mid-level,On-Site,176450.0
@@ -6233,7 +6233,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-19,Klaviyo,Massachusetts,Boston,Lead,On-Site,196000.0
 2024-07-19,Takeda Pharmaceutical,Massachusetts,Boston,Associate,On-Site,191700.0
 2024-07-19,Deloitte,Michigan,Detroit,Mid-level,On-Site,114500.0
-2024-07-19,Patterson,Minnesota,Saint Paul,Senior,remote,100000.0
+2024-07-19,Patterson,Minnesota,Saint Paul,Senior,Remote,100000.0
 2024-07-19,Deloitte,Minnesota,Minneapolis,Mid-level,On-Site,114500.0
 2024-07-19,Deloitte,Missouri,Kansas City,Mid-level,On-Site,114500.0
 2024-07-19,Deloitte,Nebraska,Omaha,Mid-level,On-Site,114500.0
@@ -6271,7 +6271,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-19,Archon Resources,Oklahoma,Tulsa,Mid-level,On-Site,232500.0
 2024-07-19,Deloitte,Oregon,Portland,Mid-level,On-Site,114500.0
 2024-07-19,Vanderhouwen,Oregon,Portland,Lead,On-Site,160000.0
-2024-07-19,Wellworks For You,Pennsylvania,Pennsylvania,Senior,remote,117500.0
+2024-07-19,Wellworks For You,Pennsylvania,Pennsylvania,Senior,Remote,117500.0
 2024-07-19,Aurora Innovation,Pennsylvania,Pittsburgh,Senior,On-Site,126500.0
 2024-07-19,Deloitte,Pennsylvania,Harrisburg,Mid-level,On-Site,114500.0
 2024-07-19,Merck Sharp & Dohme,Pennsylvania,North Wales,Associate,On-Site,192250.0
@@ -6345,7 +6345,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-19,Thoughtfocus,Wisconsin,Milwaukee,Senior,On-Site,102000.0
 2024-07-19,Northwestern Mutual,Wisconsin,Milwaukee,Mid-level,On-Site,97900.0
 2024-07-19,Northwestern Mutual,Wisconsin,Milwaukee,Mid-level,On-Site,164010.0
-2024-07-20,M&t Bank,Alabama,Clanton,Mid-level,remote,130492.695
+2024-07-20,M&t Bank,Alabama,Clanton,Mid-level,Remote,130492.695
 2024-07-20,Nou Systems Inc,Alabama,Huntsville,Mid-level,On-Site,95000.0
 2024-07-20,Chenega Corporation,Alaska,Virginia,Mid-level,On-Site,84000.0
 2024-07-20,U.s. Army Cyber Command,Arizona,Phoenix,Mid-level,On-Site,151039.5
@@ -6354,7 +6354,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-20,Chenega Corporation,Arkansas,Virginia,Mid-level,On-Site,84000.0
 2024-07-20,Eachhire,California,California,Associate,On-Site,300000.0
 2024-07-20,Hubcom,California,Beverly Hills,Mid-level,On-Site,151284.0
-2024-07-20,Stanford University,California,Stanford,Mid-level,hybrid,81780.0
+2024-07-20,Stanford University,California,Stanford,Mid-level,Hybrid,81780.0
 2024-07-20,Tiktok,California,San Jose,Graduate,On-Site,129620.0
 2024-07-20,Salesforce,California,San Francisco,Lead,On-Site,221000.0
 2024-07-20,Amazon.com Services Llc,California,Palo Alto,Mid-level,On-Site,205200.0
@@ -6429,7 +6429,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-20,Ibm,Connecticut,Southbury,Mid-level,On-Site,209000.0
 2024-07-20,"The Travelers Companies, Inc.",Connecticut,Hartford,Mid-level,On-Site,157400.0
 2024-07-20,Steampunk,District of Columbia,McLean,Mid-level,On-Site,142500.0
-2024-07-20,Freddie Mac,District of Columbia,McLean,Senior,hybrid,148000.0
+2024-07-20,Freddie Mac,District of Columbia,McLean,Senior,Hybrid,148000.0
 2024-07-20,Noblis,District of Columbia,Washington,Mid-level,On-Site,104925.0
 2024-07-20,Noblis,District of Columbia,Washington,Mid-level,On-Site,104925.0
 2024-07-20,Navy Federal Credit Union,District of Columbia,Vienna,Mid-level,On-Site,155750.0
@@ -6472,7 +6472,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-20,Noblis,Massachusetts,Boston,Mid-level,On-Site,104925.0
 2024-07-20,Zoox,Massachusetts,Boston,Senior,On-Site,257500.0
 2024-07-20,Cloud Software Group,Massachusetts,Burlington,Senior,On-Site,146651.5
-2024-07-20,Target,Minnesota,Minneapolis,Mid-level,remote,119700.0
+2024-07-20,Target,Minnesota,Minneapolis,Mid-level,Remote,119700.0
 2024-07-20,Abbott Laboratories,Minnesota,Minnesota,Mid-level,On-Site,86000.0
 2024-07-20,Recruiting From Scratch,Minnesota,Minneapolis,Mid-level,On-Site,217500.0
 2024-07-20,Chenega Corporation,Mississippi,Virginia,Mid-level,On-Site,84000.0
@@ -6533,7 +6533,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-20,Cognizant,Texas,Houston,Mid-level,On-Site,93500.0
 2024-07-20,Deloitte,Texas,Austin,Mid-level,On-Site,166210.5
 2024-07-20,Ntt,Texas,Austin,Senior,On-Site,159900.0
-2024-07-20,Citi,Texas,Irving,Mid-level,hybrid,157200.0
+2024-07-20,Citi,Texas,Irving,Mid-level,Hybrid,157200.0
 2024-07-20,Appfolio,Texas,Dallas,Mid-level,On-Site,120000.0
 2024-07-20,Ey,Texas,Dallas,Senior,On-Site,336000.0
 2024-07-20,Imprivata,Texas,Austin,Senior,On-Site,154300.0
@@ -6662,7 +6662,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-22,Noblis,Massachusetts,Boston,Mid-level,On-Site,104925.0
 2024-07-22,Noblis,Massachusetts,Boston,Mid-level,On-Site,104925.0
 2024-07-22,Kla,Michigan,Ann Arbor,Senior,On-Site,127450.0
-2024-07-22,Securian Financial Group,Minnesota,Forest Lake,Mid-level,hybrid,119500.0
+2024-07-22,Securian Financial Group,Minnesota,Forest Lake,Mid-level,Hybrid,119500.0
 2024-07-22,Mayo Clinic,Minnesota,Rochester,Senior,On-Site,150040.5
 2024-07-22,Rvo Health,Minnesota,Minneapolis,Senior,On-Site,113750.0
 2024-07-22,Thomson Reuters,Minnesota,Ann Arbor,Senior,On-Site,203900.0
@@ -6697,7 +6697,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-22,Cvs Health,Rhode Island,Woonsocket,Senior,On-Site,151667.5
 2024-07-22,State Of South Carolina,South Carolina,Aiken,Mid-level,On-Site,56571.5
 2024-07-22,Ey,Texas,Dallas,Manager,On-Site,141295.0
-2024-07-22,Citi,Texas,Irving,Mid-level,hybrid,157200.0
+2024-07-22,Citi,Texas,Irving,Mid-level,Hybrid,157200.0
 2024-07-22,Deloitte,Texas,Dallas,Mid-level,On-Site,166210.5
 2024-07-22,"Amazon Web Services, Inc.",Virginia,Arlington,Senior,On-Site,128600.0
 2024-07-22,Northrop Grumman,Virginia,Virginia,Mid-level,On-Site,168750.0
@@ -6772,20 +6772,20 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-23,University Of Florida,Florida,Gainesville,Mid-level,On-Site,70000.0
 2024-07-23,"T-mobile Usa, Inc.",Georgia,Atlanta,Mid-level,On-Site,132000.0
 2024-07-23,Slalom Consulting,Georgia,Atlanta,Mid-level,On-Site,149500.0
-2024-07-23,New Relic,Georgia,Atlanta,Lead,remote,202500.0
+2024-07-23,New Relic,Georgia,Atlanta,Lead,Remote,202500.0
 2024-07-23,Discover Financial Services,Illinois,Riverwoods,Senior,On-Site,179700.0
 2024-07-23,Hcsc,Illinois,Chicago,Manager,On-Site,136950.0
 2024-07-23,Recruiting From Scratch,Kansas,Overland Park,Mid-level,On-Site,220000.0
 2024-07-23,Recruiting From Scratch,Kansas,Wichita,Lead,On-Site,185000.0
 2024-07-23,Leidos,Louisiana,Louisiana,Mid-level,On-Site,91250.0
-2024-07-23,Eversource,Massachusetts,Hadley,Senior,hybrid,123500.0
+2024-07-23,Eversource,Massachusetts,Hadley,Senior,Hybrid,123500.0
 2024-07-23,Servier,Massachusetts,Boston,Associate,On-Site,153086.0
 2024-07-23,Takeda Pharmaceutical,Massachusetts,Cambridge,Mid-level,On-Site,217800.0
 2024-07-23,Autonodyne Llc,Massachusetts,Boston,Mid-level,On-Site,132500.0
 2024-07-23,Autonodyne Llc,Massachusetts,Boston,Senior,On-Site,130000.0
 2024-07-23,Mayo Clinic,Minnesota,Rochester,Senior,On-Site,150040.5
 2024-07-23,Wells Fargo,Minnesota,Minneapolis,Lead,On-Site,154050.0
-2024-07-23,Securian Financial Group,Minnesota,Minneapolis,Mid-level,hybrid,119500.0
+2024-07-23,Securian Financial Group,Minnesota,Minneapolis,Mid-level,Hybrid,119500.0
 2024-07-23,Recruiting From Scratch,New Jersey,Trenton,Mid-level,On-Site,217500.0
 2024-07-23,Verus Research,New Mexico,Albuquerque,Mid-level,On-Site,147500.0
 2024-07-23,Meta,New York,New York,Mid-level,On-Site,283500.0
@@ -6800,7 +6800,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-23,Wells Fargo,North Carolina,Charlotte,Lead,On-Site,154050.0
 2024-07-23,Proit Inc.,North Carolina,Cary,Mid-level,On-Site,125263.5
 2024-07-23,Recruiting From Scratch,Ohio,Columbus,Mid-level,On-Site,217500.0
-2024-07-23,Jazz Pharmaceuticals,Pennsylvania,Philadelphia,Mid-level,remote,160000.0
+2024-07-23,Jazz Pharmaceuticals,Pennsylvania,Philadelphia,Mid-level,Remote,160000.0
 2024-07-23,Merck Sharp & Dohme,Pennsylvania,North Wales,Associate,On-Site,192250.0
 2024-07-23,Meta,Pennsylvania,Pittsburgh,Mid-level,On-Site,214000.0
 2024-07-23,Western Governors University,Remote,Remote,Mid-level,Remote,119850.0
@@ -6822,7 +6822,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-23,Us Defense Technical Information Center,Virginia,Fort Belvoir,Mid-level,On-Site,80698.0
 2024-07-23,Smithfield Foods,Virginia,Smithfield,Senior,On-Site,84000.0
 2024-07-23,Walmart,Virginia,Reston,Mid-level,On-Site,198000.0
-2024-07-23,Freddie Mac,Virginia,McLean,Senior,hybrid,148000.0
+2024-07-23,Freddie Mac,Virginia,McLean,Senior,Hybrid,148000.0
 2024-07-23,Virginia Tech,Virginia,Blacksburg,Mid-level,On-Site,70000.0
 2024-07-23,"Amazon Development Center U.s., Inc.",Virginia,Arlington,Mid-level,On-Site,179100.0
 2024-07-23,Shrm,Virginia,Alexandria,Mid-level,On-Site,172500.0
@@ -7006,7 +7006,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-24,Optum,Minnesota,Eden Prairie,Mid-level,Remote,104000.0
 2024-07-24,Medtronic,Minnesota,Mounds View,Senior,On-Site,145000.0
 2024-07-24,Medtronic,Minnesota,Mounds View,Mid-level,Hybrid,211000.0
-2024-07-24,Securian Financial Group,Minnesota,Lakeville,Mid-level,hybrid,119500.0
+2024-07-24,Securian Financial Group,Minnesota,Lakeville,Mid-level,Hybrid,119500.0
 2024-07-24,Wells Fargo,Minnesota,Minneapolis,Lead,On-Site,154050.0
 2024-07-24,Optum,Minnesota,Eden Prairie,Senior,Remote,130600.0
 2024-07-24,Thomson Reuters,Minnesota,Eagan,Senior,On-Site,203900.0
@@ -7291,7 +7291,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-25,Deloitte,Connecticut,Stamford,Senior,On-Site,223100.0
 2024-07-25,Ally Financial,Delaware,Wilmington,Mid-level,On-Site,162500.0
 2024-07-25,Ally Financial,Delaware,Wilmington,Manager,On-Site,162500.0
-2024-07-25,Genuine Health Group,Florida,Coral Gables,Senior,hybrid,90000.0
+2024-07-25,Genuine Health Group,Florida,Coral Gables,Senior,Hybrid,90000.0
 2024-07-25,Peraton,Florida,Doral,Mid-level,On-Site,175500.0
 2024-07-25,The State Of Florida,Florida,Tallahassee,Mid-level,On-Site,61500.0
 2024-07-25,University Of Florida,Florida,Gainesville,Mid-level,On-Site,76500.0
@@ -7420,7 +7420,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-27,Optum,Georgia,Atlanta,Mid-level,On-Site,178400.0
 2024-07-27,Visa,Georgia,Atlanta,Senior,On-Site,248225.0
 2024-07-27,Visa,Georgia,Atlanta,Senior,On-Site,185900.0
-2024-07-27,Stryker,Georgia,Atlanta,Senior,remote,154050.0
+2024-07-27,Stryker,Georgia,Atlanta,Senior,Remote,154050.0
 2024-07-27,Deloitte,Georgia,Atlanta,Mid-level,On-Site,202400.0
 2024-07-27,Deloitte,Georgia,Atlanta,Senior,On-Site,223100.0
 2024-07-27,Deloitte,Idaho,Boise,Senior,On-Site,223100.0
@@ -7431,14 +7431,14 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-27,Paypal,Illinois,Chicago,Senior,On-Site,144550.0
 2024-07-27,Cvs Health,Illinois,Chicago,Lead,On-Site,194200.0
 2024-07-27,Paypal,Illinois,Chicago,Manager,On-Site,110375.0
-2024-07-27,Stryker,Illinois,Illinois,Senior,remote,154050.0
+2024-07-27,Stryker,Illinois,Illinois,Senior,Remote,154050.0
 2024-07-27,Paypal,Illinois,Illinois,Mid-level,On-Site,231900.0
 2024-07-27,Hektoen Institute Llc,Illinois,Chicago,Manager,On-Site,57500.0
 2024-07-27,Imprivata,Illinois,Chicago,Senior,On-Site,154300.0
 2024-07-27,Deloitte,Illinois,Chicago,Mid-level,On-Site,202400.0
 2024-07-27,Deloitte,Indiana,Indianapolis,Mid-level,On-Site,202400.0
 2024-07-27,"Techdata Service Company, Llc",Indiana,Indianapolis,Mid-level,On-Site,120000.0
-2024-07-27,Collins Aerospace,Iowa,Iowa,Lead,remote,148000.0
+2024-07-27,Collins Aerospace,Iowa,Iowa,Lead,Remote,148000.0
 2024-07-27,Deloitte,Iowa,Des Moines,Senior,On-Site,223100.0
 2024-07-27,Creativeone,Kansas,Leawood,Mid-level,On-Site,130000.0
 2024-07-27,"T-mobile Usa, Inc.",Kansas,Overland Park,Mid-level,On-Site,177600.0
@@ -7459,15 +7459,15 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-27,Deloitte,Massachusetts,Boston,Mid-level,On-Site,202400.0
 2024-07-27,Deloitte,Massachusetts,Boston,Senior,On-Site,223100.0
 2024-07-27,Peraton,Massachusetts,United States,Mid-level,On-Site,112000.0
-2024-07-27,Stryker,Michigan,Portage,Senior,remote,154050.0
+2024-07-27,Stryker,Michigan,Portage,Senior,Remote,154050.0
 2024-07-27,Thomson Reuters,Michigan,Ann Arbor,Manager,On-Site,131000.0
 2024-07-27,Deloitte,Michigan,Detroit,Mid-level,On-Site,202400.0
 2024-07-27,Deloitte,Michigan,Detroit,Senior,On-Site,223100.0
 2024-07-27,Optum,Minnesota,Eden Prairie,Mid-level,Remote,130600.0
 2024-07-27,Risk Solutions,Minnesota,Minneapolis,Mid-level,On-Site,91750.0
 2024-07-27,Target,Minnesota,Minneapolis,Mid-level,On-Site,157600.0
-2024-07-27,Securian Financial Group,Minnesota,Saint Paul,Mid-level,hybrid,119500.0
-2024-07-27,Stryker,Minnesota,Minneapolis,Senior,remote,154050.0
+2024-07-27,Securian Financial Group,Minnesota,Saint Paul,Mid-level,Hybrid,119500.0
+2024-07-27,Stryker,Minnesota,Minneapolis,Senior,Remote,154050.0
 2024-07-27,Provation,Minnesota,Minneapolis,Senior,On-Site,142350.0
 2024-07-27,Deloitte,Minnesota,Minneapolis,Mid-level,On-Site,202400.0
 2024-07-27,Deloitte,Minnesota,Minneapolis,Senior,On-Site,223100.0
@@ -7481,8 +7481,8 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-27,Deloitte,Nevada,Las Vegas,Senior,On-Site,223100.0
 2024-07-27,Prudential,New Jersey,Newark,Manager,On-Site,152500.0
 2024-07-27,Johnson & Johnson,New Jersey,Raritan,Senior,On-Site,135875.0
-2024-07-27,Stryker,New Jersey,Allendale,Senior,remote,154050.0
-2024-07-27,Basf Environmental Catalysts And Metal Solutions,New Jersey,Iselin,Mid-level,hybrid,140000.0
+2024-07-27,Stryker,New Jersey,Allendale,Senior,Remote,154050.0
+2024-07-27,Basf Environmental Catalysts And Metal Solutions,New Jersey,Iselin,Mid-level,Hybrid,140000.0
 2024-07-27,Lord Abbett.com,New Jersey,Jersey City,Senior,On-Site,160000.0
 2024-07-27,Deloitte,New Jersey,Morristown,Mid-level,On-Site,202400.0
 2024-07-27,Bristol-myers Squibb,New Jersey,Summit,Manager,On-Site,126500.0
@@ -7582,7 +7582,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-27,Upen Group Inc,Texas,Irving,Entry-level,On-Site,50000.0
 2024-07-27,Usaa,Texas,San Antonio,Lead,On-Site,231395.0
 2024-07-27,Paypal,Texas,Austin,Senior,On-Site,144550.0
-2024-07-27,Hewlett Packard,Texas,Spring,Mid-level,remote,200100.0
+2024-07-27,Hewlett Packard,Texas,Spring,Mid-level,Remote,200100.0
 2024-07-27,Usaa,Texas,San Antonio,Mid-level,On-Site,265915.0
 2024-07-27,Gartner,Texas,Irving,Senior,On-Site,94130.0
 2024-07-27,Caci,Texas,San Antonio,Mid-level,On-Site,138750.0
@@ -7590,7 +7590,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-27,Usaa,Texas,San Antonio,Mid-level,On-Site,231395.0
 2024-07-27,Paypal,Texas,Austin,Manager,On-Site,165600.0
 2024-07-27,Deloitte,Texas,Austin,Mid-level,On-Site,143900.0
-2024-07-27,Stryker,Texas,Dallas,Senior,remote,154050.0
+2024-07-27,Stryker,Texas,Dallas,Senior,Remote,154050.0
 2024-07-27,Optum,Texas,Austin,Mid-level,On-Site,178400.0
 2024-07-27,Cognizant,Texas,Houston,Mid-level,On-Site,144750.0
 2024-07-27,"T-mobile Usa, Inc.",Texas,Frisco,Mid-level,On-Site,177600.0
@@ -7646,7 +7646,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-27,Logic20/20 Inc.,Washington,Seattle,Manager,On-Site,152500.0
 2024-07-27,Deloitte,Washington,Seattle,Mid-level,On-Site,202400.0
 2024-07-27,Deloitte,Washington,Seattle,Senior,On-Site,223100.0
-2024-07-28,M&t Bank,Alabama,Clanton,Mid-level,remote,130492.695
+2024-07-28,M&t Bank,Alabama,Clanton,Mid-level,Remote,130492.695
 2024-07-28,Mth Consulting,Alabama,Huntsville,Mid-level,On-Site,120000.0
 2024-07-28,Atlassian,Alabama,San Francisco,Senior,On-Site,169550.0
 2024-07-28,Arine,Alaska,Remote,Senior,Remote,167500.0
@@ -7830,7 +7830,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-07-28,Egnyte,Utah,Draper,Mid-level,On-Site,125000.0
 2024-07-28,Deloitte,Utah,Salt Lake City,Senior,On-Site,223100.0
 2024-07-28,Booz Allen,Virginia,Alexandria,Mid-level,On-Site,123800.0
-2024-07-28,Freddie Mac,Virginia,McLean,Mid-level,hybrid,121000.0
+2024-07-28,Freddie Mac,Virginia,McLean,Mid-level,Hybrid,121000.0
 2024-07-28,American Bureau Of Shipping (abs),Virginia,Arlington,Mid-level,On-Site,110000.0
 2024-07-28,Walmart,Virginia,Reston,Senior,On-Site,153000.0
 2024-07-28,Noblis,Virginia,McLean,Senior,On-Site,176812.5
@@ -7911,7 +7911,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-06,Uber,California,San Francisco,Mid-level,On-Site,166750.0
 2024-08-06,Nvidia,California,Santa Clara,Senior,On-Site,172375.0
 2024-08-06,Bytedance,California,San Jose,Graduate,On-Site,123120.0
-2024-08-06,"Public Health Foundation Enterprises, In",California,Richmond,Manager,remote,88500.0
+2024-08-06,"Public Health Foundation Enterprises, In",California,Richmond,Manager,Remote,88500.0
 2024-08-06,Apple,California,Cupertino,Mid-level,On-Site,207100.0
 2024-08-06,Luttechub,California,San Jose,Mid-level,On-Site,190000.0
 2024-08-06,Medtronic,California,Northridge,Mid-level,On-Site,138000.0
@@ -7996,7 +7996,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-06,"Global Healthcare Exchange, Inc.",Colorado,Louisville,Senior,On-Site,145750.0
 2024-08-06,Pfizer,Connecticut,Groton,Associate,On-Site,86100.0
 2024-08-06,M&t Bank,Delaware,Wilmington,Mid-level,On-Site,237181.6
-2024-08-06,Citi,Delaware,Wilmington,Mid-level,hybrid,157200.0
+2024-08-06,Citi,Delaware,Wilmington,Mid-level,Hybrid,157200.0
 2024-08-06,Sdv International,District of Columbia,Falls Church,Mid-level,On-Site,135000.0
 2024-08-06,Geico,District of Columbia,Chevy Chase,Senior,On-Site,159250.0
 2024-08-06,Peraton,District of Columbia,Rosslyn,Mid-level,On-Site,229000.0
@@ -8093,7 +8093,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-06,Databricks,Illinois,Chicago,Mid-level,On-Site,307050.0
 2024-08-06,Cognizant,Illinois,Naperville,Lead,Hybrid,133000.0
 2024-08-06,Lilly,Indiana,Indianapolis,Senior,On-Site,158650.0
-2024-08-06,Principal Financial Group,Iowa,Des Moines,Mid-level,hybrid,136500.0
+2024-08-06,Principal Financial Group,Iowa,Des Moines,Mid-level,Hybrid,136500.0
 2024-08-06,American Equity,Iowa,West Des Moines,Mid-level,On-Site,122500.0
 2024-08-06,Education Dynamics Llc,Kansas,Lenexa,Senior,On-Site,185000.0
 2024-08-06,"T-mobile Usa, Inc.",Kansas,Overland Park,Mid-level,On-Site,177600.0
@@ -8236,7 +8236,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-06,Westmoreland Community Action,Pennsylvania,Greensburg,Senior,On-Site,74796.79999999999
 2024-08-06,The Cigna Group,Pennsylvania,Philadelphia,Lead,Hybrid,110650.0
 2024-08-06,Pnc Financial Services Group,Pennsylvania,Philadelphia,Manager,On-Site,192075.0
-2024-08-06,Merck Sharp & Dohme,Pennsylvania,North Wales,Mid-level,hybrid,284100.0
+2024-08-06,Merck Sharp & Dohme,Pennsylvania,North Wales,Mid-level,Hybrid,284100.0
 2024-08-06,Motion Recruitment,Pennsylvania,Philadelphia,Senior,On-Site,175000.0
 2024-08-06,Allo Communications,Remote,Remote,Mid-level,Remote,110000.0
 2024-08-06,Ebay,Remote,Remote,Mid-level,Remote,145675.0
@@ -8299,7 +8299,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-06,Bny Mellon,Texas,Houston,Mid-level,On-Site,191000.0
 2024-08-06,Usaa,Texas,San Antonio,Mid-level,On-Site,130995.0
 2024-08-06,Hcsc,Texas,Richardson,Mid-level,On-Site,85800.0
-2024-08-06,Dxc Technology,Texas,Texas,Senior,remote,120100.0
+2024-08-06,Dxc Technology,Texas,Texas,Senior,Remote,120100.0
 2024-08-06,Amazon.com Services Llc,Texas,Austin,Senior,On-Site,205200.0
 2024-08-06,Hewlett Packard Enterprise,Texas,Spring,Mid-level,On-Site,96750.0
 2024-08-06,Deloitte,Texas,Austin,Mid-level,On-Site,143900.0
@@ -8316,7 +8316,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-06,Paypal,Texas,Austin,Manager,On-Site,110375.0
 2024-08-06,Hewlett Packard Enterprise,Texas,Spring,Mid-level,On-Site,109500.0
 2024-08-06,San Antonio Water System,Texas,San Antonio,Mid-level,On-Site,126764.5
-2024-08-06,Citi,Texas,Irving,Mid-level,hybrid,157200.0
+2024-08-06,Citi,Texas,Irving,Mid-level,Hybrid,157200.0
 2024-08-06,"T-mobile Usa, Inc.",Texas,Frisco,Mid-level,On-Site,177600.0
 2024-08-06,Hewlett Packard,Texas,Spring,Mid-level,On-Site,176216.0
 2024-08-06,Usaa,Texas,San Antonio,Manager,On-Site,193520.0
@@ -8434,7 +8434,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-07,"The Travelers Companies, Inc.",Connecticut,Hartford,Mid-level,On-Site,157400.0
 2024-08-07,"The Travelers Companies, Inc.",Connecticut,Hartford,Mid-level,On-Site,160300.0
 2024-08-07,"The Travelers Companies, Inc.",Connecticut,Hartford,Mid-level,On-Site,178600.0
-2024-08-07,Cognizant,Connecticut,Hartford,Mid-level,hybrid,125250.0
+2024-08-07,Cognizant,Connecticut,Hartford,Mid-level,Hybrid,125250.0
 2024-08-07,Pearson,Connecticut,Hartford,Mid-level,On-Site,125000.0
 2024-08-07,"The Travelers Companies, Inc.",Connecticut,Hartford,Mid-level,On-Site,178600.0
 2024-08-07,Pearson,Delaware,Dover,Mid-level,On-Site,180000.0
@@ -8467,7 +8467,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-07,Boston Consulting Group,Florida,Miami,Mid-level,On-Site,167500.0
 2024-08-07,Pearson,Florida,Tallahassee,Mid-level,On-Site,180000.0
 2024-08-07,Accenture Federal Services,Florida,Tampa,Mid-level,On-Site,146900.0
-2024-08-07,Citi,Florida,Tampa,Senior,hybrid,109100.0
+2024-08-07,Citi,Florida,Tampa,Senior,Hybrid,109100.0
 2024-08-07,Pearson,Florida,Tallahassee,Mid-level,On-Site,125000.0
 2024-08-07,Broward County Public Schools,Florida,Fort Lauderdale,Mid-level,On-Site,102764.5
 2024-08-07,Home Depot / Thd,Georgia,Atlanta,Lead,On-Site,180000.0
@@ -8478,7 +8478,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-07,Home Depot / Thd,Georgia,Atlanta,Senior,On-Site,210000.0
 2024-08-07,Microsoft,Georgia,Atlanta,Mid-level,On-Site,215800.0
 2024-08-07,Pearson,Georgia,Atlanta,Mid-level,On-Site,125000.0
-2024-08-07,Home Depot / Thd,Georgia,Atlanta,Senior,remote,205000.0
+2024-08-07,Home Depot / Thd,Georgia,Atlanta,Senior,Remote,205000.0
 2024-08-07,Dolby,Georgia,Atlanta,Mid-level,On-Site,144100.0
 2024-08-07,Protiviti,Georgia,Atlanta,Senior,On-Site,204740.0
 2024-08-07,Pearson,Hawaii,Honolulu,Mid-level,On-Site,180000.0
@@ -8662,7 +8662,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-07,Bluberi Gaming,Texas,Austin,Mid-level,On-Site,111500.0
 2024-08-07,Pearson,Texas,Austin,Mid-level,On-Site,180000.0
 2024-08-07,Boston Consulting Group,Texas,Dallas,Mid-level,On-Site,167500.0
-2024-08-07,Dxc Technology,Texas,Texas,Senior,remote,120100.0
+2024-08-07,Dxc Technology,Texas,Texas,Senior,Remote,120100.0
 2024-08-07,University Of Texas At Austin,Texas,Austin,Associate,On-Site,90000.0
 2024-08-07,Usaa,Texas,San Antonio,Senior,On-Site,152780.0
 2024-08-07,Recruiting From Scratch,Texas,Dallas,Mid-level,On-Site,217500.0
@@ -8826,7 +8826,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-10,Deloitte,Arkansas,Little Rock,Senior,On-Site,135250.0
 2024-08-09,Lawrence Berkeley National Laboratory,California,San Francisco Bay Area,Mid-level,On-Site,180648.0
 2024-08-09,Skai,California,San Francisco,Mid-level,On-Site,125000.0
-2024-08-09,Stanford University,California,Stanford,Mid-level,hybrid,81780.0
+2024-08-09,Stanford University,California,Stanford,Mid-level,Hybrid,81780.0
 2024-08-09,Chegg,California,Santa Clara,Mid-level,On-Site,153326.0
 2024-08-09,Uc San Diego,California,San Diego,Mid-level,On-Site,86600.0
 2024-08-09,"Mission Support And Test Services, Llc",California,Santa Barbara,Mid-level,On-Site,103490.4
@@ -8872,7 +8872,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-09,Annapurna Labs (u.s.) Inc.,California,Cupertino,Mid-level,On-Site,176450.0
 2024-08-09,Wescom Credit Union,California,Pasadena,Mid-level,On-Site,123650.0
 2024-08-09,Gradient,California,Burlingame,Mid-level,On-Site,230000.0
-2024-08-09,Visa,California,Foster City,Lead,hybrid,200675.0
+2024-08-09,Visa,California,Foster City,Lead,Hybrid,200675.0
 2024-08-09,Bytedance,California,San Jose,Graduate,On-Site,197500.0
 2024-08-09,Nvidia,California,Santa Clara,Senior,On-Site,259625.0
 2024-08-09,Kla,California,Milpitas,Mid-level,On-Site,167550.0
@@ -8971,7 +8971,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-10,Slalom Consulting,Colorado,Denver,Mid-level,On-Site,150000.0
 2024-08-10,National Renewable Energy Laboratory,Colorado,Golden,Mid-level,On-Site,97000.0
 2024-08-10,Deloitte,Colorado,Colorado Springs,Manager,On-Site,160700.0
-2024-08-10,State Of Connecticut - Department Of Social...,Connecticut,Hartford,Mid-level,hybrid,120104.0
+2024-08-10,State Of Connecticut - Department Of Social...,Connecticut,Hartford,Mid-level,Hybrid,120104.0
 2024-08-10,The Hartford,Connecticut,Hartford,Mid-level,On-Site,97900.0
 2024-08-10,Deloitte,Connecticut,Stamford,Senior,On-Site,135250.0
 2024-08-10,"The Travelers Companies, Inc.",Connecticut,Hartford,Mid-level,On-Site,157400.0
@@ -9085,7 +9085,7 @@ Remote",Mid-level,On-Site,106500.0
 2024-08-10,Ras Companies,Nebraska,Omaha,Lead,On-Site,96900.0
 2024-08-10,Deloitte,Nebraska,Omaha,Manager,On-Site,160700.0
 2024-08-09,Deloitte,Nevada,Las Vegas,Manager,On-Site,160700.0
-2024-08-09,Merck Sharp & Dohme,New Jersey,Rahway,Senior,hybrid,158050.0
+2024-08-09,Merck Sharp & Dohme,New Jersey,Rahway,Senior,Hybrid,158050.0
 2024-08-09,Deloitte,New Jersey,Princeton,Senior,On-Site,135250.0
 2024-08-09,Walmart,New Jersey,Hoboken,Mid-level,On-Site,198000.0
 2024-08-09,Organon,New Jersey,Jersey City,Mid-level,On-Site,167350.0
