@@ -19,14 +19,11 @@ This project seeks to analyze recent job postings and create a predictive model 
 
 ### Table of Contents
 
-1. [Data Cleaning](#data-cleaning)
-2. [Data Exploratory Analysis (EDA)](#data-exploratory-analysis-eda)
-3. [Model Development](#model-development)
-   - [Simple Linear Regression (SLR)](#simple-linear-regression-slr)
-   - [Multiple Linear Regression (MLR)](#multiple-linear-regression-mlr)
-   - [Polynomial Regression](#polynomial-regression)
+1. [Data cleaning](#1-data-cleaning)
+2. [Exploratory Data Analysis (EDA)](#2-exploratory-data-analysis-eda)
+3. [Model Development](#3-model-development)
 
-#### Data cleaning
+#### 1. Data cleaning
 
 - Discover each features data to extract useful information to new columns (Working mode, job level, average salary) that help to build the model in the end of this project.
 - Handle missing values, remove duplicates, and convert data types.
@@ -38,7 +35,7 @@ Raw data
 Clean data
 ![clean-data](img/clean_data.png)
 
-#### Exploratory data analysis
+#### 2. Exploratory Data Analysis (EDA)
 - Job posting by date
 ![img.png](img/bydate.png)
 - Job distribution by state
@@ -58,7 +55,7 @@ Clean data
 - Salary range for entry level positions
 ![img.png](img//salary-entry-level.png)
 
-#### Model development
+#### 3. Model development
 
 Three models were developed to predict salary: 
 - Simple Linear Regression (SLR)
@@ -67,6 +64,7 @@ Three models were developed to predict salary:
 ![img.png](img/mlr.png)
 - Polynomial Regression
 ![img.png](img/polynomial-joblevel.png)
+
 ### Conclusion
 - The analysis demonstrates that the multiple linear regression (MRL) model is the best choice for salary prediction. With a R-squared value and minimal MSE, this model effectively captures the complexities of various influencing factors. 
 
