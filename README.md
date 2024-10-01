@@ -25,9 +25,9 @@ This project seeks to analyze recent job postings and create a predictive model 
 
 #### 1. Data cleaning
 
-- Discover each features data to extract useful information to new columns (Working mode, job level, average salary) that help to build the model in the end of this project.
-- Handle missing values, remove duplicates, and convert data types.
-- Remove columns that are not in use
+- Explore the dataset to create new columns (such as working mode, job level, and average salary) that will aid in building the model at the end of this project.
+- Address missing values, eliminate duplicates, and convert data types as needed. 
+- Finally, remove any columns that are not relevant.
 
 __Raw data__
 ![raw-data](img/raw_data.png)
