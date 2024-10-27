@@ -1,73 +1,50 @@
-# Indeed job posting analysis - Data scientist
+# Indeed Job Posting Analysis - Data Scientist
 
 ![image.png](img/indeedlogo.png)
 
 ## Project Overview
 
-This project analyzes actual data scientist job postings on Indeed in the USA from 23/06/2024 to 11/08/2024. The goal is to examine trends in job postings and salary variations across different states, experience levels, work modes, and companies. Based on this analysis, a predictive model that estimates salaries will be developed, enabling both job seekers and employers to make informed decisions and ensure fair compensation in the job market.
+- Develop an automated script to clean job posting data from Indeed. Afterward, visualize the data and build a model to predict future salaries for data scientist positions.
 
-### Data Source
-The data used in this project was downloaded from Kaggle.
-
-- Link dataset: [Job posting dataset](https://www.kaggle.com/datasets/yusufolonade/data-science-job-postings-indeed-usa)
+- The model is built using knowledge gained from the IBM Data Analyst Professional Certificate. I applied this knowledge to test its effectiveness and determine the best metric for the prediction model.
 
 ### Business Problem
 
-In the competitive data science market, both job seekers and employers struggle with unclear salary expectations and job availability. The lack of comprehensive insights into job posting trends and salary variations across states and experience levels can result in misaligned expectations, affecting recruitment and job satisfaction.
+The company needs to optimize its recruitment for data scientist roles by accurately predicting salary trends. Current analysis of Indeed job postings is unstructured, which can lead to misaligned salary offerings. By automating data cleaning, visualizing trends, and building a predictive model, we aim to enhance hiring competitiveness and attract top talent.
 
-This project seeks to analyze recent job postings and create a predictive model for estimating salaries in data science. By offering data-driven insights, job seekers should negotiate fair compensation while helping employers attract and retain top talent.
+### Data Source
+Data is sourced from Kaggle.
+
+- **Dataset Link:** [Job Posting Dataset](https://www.kaggle.com/datasets/yusufolonade/data-science-job-postings-indeed-usa)
 
 ### Table of Contents
 
-1. [Data cleaning](#1-data-cleaning)
+1. [Data Cleaning](#1-data-cleaning)
 2. [Exploratory Data Analysis (EDA)](#2-exploratory-data-analysis-eda)
 3. [Model Development](#3-model-development)
 
-#### 1. Data cleaning
+#### 1. Data Cleaning
 
-- Explore the dataset to create new columns (such as working mode, job level, and average salary) that will aid in building the model at the end of this project.
-- Address missing values, eliminate duplicates, and convert data types as needed. 
-- Finally, remove any columns that are not relevant.
+- Automated data cleaning to create essential columns (e.g., working mode, job level, average salary).
+- Handled missing values, removed duplicates, and adjusted data types.
 
-__Raw data__
+__Raw Data__  
 ![raw-data](img/raw_data.png)
 
-__Clean data__
+__Clean Data__  
 ![clean-data](img/clean_data.png)
 
 #### 2. Exploratory Data Analysis (EDA)
-__Job posting by date__
-![img.png](img/bydate.png)
-__Job distribution by state__
-![img.png](img/propotion-state.png)
-__Salary distribution__
-![img.png](img/avg-salary.png)
-__- __Salary by job level__
-![img.png](img/salary-job-level.png)
-__Salary by working mode__
-![img.png](img/salary-working-mode.png)
-__Salary by job level and working mode__
-![img.png](img/salary-joblevel-workingmode.png)
-__Top 10 city, state hiring the most__
-![img.png](img/top-10-city-state.png)
-__Top 10 company actively hiring__
-![img.png](img/top-10-company.png)
-__Salary range for entry level positions__
-![img.png](img//salary-entry-level.png)
 
-#### 3. Model development
+- Visualizations include job postings by date, state distribution, and salary trends by job level and work mode.
 
-Three models were developed to predict salary: 
-__Simple Linear Regression (SLR)__
-![img.png](img/SLR-job-level.png)
-__Multiple Linear Regression (MLR)__
-![img.png](img/mlr.png)
-__Polynomial Regression__
-![img.png](img/polynomial-joblevel.png)
+#### 3. Model Development
+
+- Developed three models for salary prediction:
+  - **Simple Linear Regression (SLR)**
+  - **Multiple Linear Regression (MLR)**
+  - **Polynomial Regression**
 
 ### Conclusion
-- The analysis demonstrates that the multiple linear regression (MRL) model is the best choice for salary prediction. With a R-squared value and minimal MSE, this model effectively captures the complexities of various influencing factors. 
 
-- By leveraging multiple relevant predictors, it not only enhances the accuracy of salary forecasts but also provides invaluable insights for both job seekers and employers. Investing in this approach empowers stakeholders to make informed decisions, ultimately leading to a more equitable and efficient job market.
-
-- However, further investigation is needed to refine the model for even greater accuracy.
+This project developed a predictive model for data scientist salaries using Indeed job postings. Automation of the data cleaning process ensured accuracy by removing duplicates and handling missing values. Key salary trends were identified through visualization, and the selected metric effectively evaluated the model's performance. The model provides valuable insights for strategic hiring and salary optimization, with future enhancements planned for refinement and incorporation of additional data sources.
