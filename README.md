@@ -1,4 +1,4 @@
-# Indeed Job Posting Analysis - Data Scientist
+# Job Postings Analysis and Visualization
 
 ![image.png](img/indeedlogo.png)
 
