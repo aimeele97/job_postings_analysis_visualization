@@ -45,7 +45,7 @@ __Clean Data__
   - **Multiple Linear Regression (MLR)**
   - **Polynomial Regression**
 
-__DATA VISUALIZATION:__ ![Go to Tableau Public](https://public.tableau.com/app/profile/aimee.le9707/viz/job_posting_17304216955380/Dashboard1)
+__DATA VISUALIZATION:__ [Go to Tableau Public](https://public.tableau.com/app/profile/aimee.le9707/viz/job_posting_17304216955380/Dashboard1)
 
 ### Conclusion
 
