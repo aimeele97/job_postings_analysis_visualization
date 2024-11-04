@@ -45,6 +45,8 @@ __Clean Data__
   - **Multiple Linear Regression (MLR)**
   - **Polynomial Regression**
 
+__DATA VISUALIZATION:__ ![Go to Tableau Public](https://public.tableau.com/app/profile/aimee.le9707/viz/job_posting_17304216955380/Dashboard1)
+
 ### Conclusion
 
 This project developed a predictive model for data scientist salaries using Indeed job postings. Automation of the data cleaning process ensured accuracy by removing duplicates and handling missing values. Key salary trends were identified through visualization, and the selected metric effectively evaluated the model's performance. The model provides valuable insights for strategic hiring and salary optimization, with future enhancements planned for refinement and incorporation of additional data sources.
